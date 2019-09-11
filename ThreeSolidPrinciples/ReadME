@@ -1,0 +1,19 @@
+Here are the explainations of each file that our team is tasked with.
+
+ThreeSolidsPrinciples.main
+-Within this file, the best fit principle for this program will be the Open-Close principle. We would want other team memebers to have the ability to extend to this code.
+
+Interface
+-Within this file, the best fit principle for this program will be interface Segregation principle. The idea is to seperate the interfaces so that the interface are implemented seperatley which is more efficient.
+
+Manager
+-Within this file, the best fit principle for this program will be Single Responsibility principle. We would want to set a specific number of inviduals to access this code.
+
+SuperWorker
+-Within this file, the best fit principle for this program will be Single Responsibility principle. We would want to set a specific number of inviduals to access this code.
+
+Worker
+-Within this file, the best fit principle for this program will be Single Responsibility principle. We would want to set a specific number of inviduals to access this code.
+
+Robot
+-Within this file, the best fit principle for this program will be Single Responsibility principle. We would want to set a specific number of inviduals to access this code.
