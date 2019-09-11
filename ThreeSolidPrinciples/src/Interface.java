@@ -5,9 +5,3 @@ interface IWorker {
 
 	
 }   
-
-interface IWorkable
-
-interface IFeedable
-
-//blake
