@@ -4,7 +4,7 @@ class Manager {
 	public void Manager() {
 
 	}
-	public void setWorker(IWorker ) {
+	public void setWorker(IWorker w ) {
 		worker=w;
 	}
 
