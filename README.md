@@ -1,6 +1,6 @@
 # CS3398_Hydra_F2019
 Hail Hydra!!
-# Project Name
+# Money Channel
 > Here goes your awesome project description!
 
 ## Table of contents
