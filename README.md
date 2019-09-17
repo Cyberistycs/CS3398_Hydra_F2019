@@ -12,7 +12,7 @@
 * [Contact](#contact)
 
 ## General info
-The Money Channey Budget Application allows end-users to take better control of their finances through knowledge and motivation. Whether the user is interested in tracking their expenses or planning to save up for something special down the road, this application can help you easily set your budget, log your expenses, and motivate you to your next goal. This application will provide stability to struggling households, as well as, relieve finacial stress off of college students. No more checking your bank account every hour, relax and look forward to your next vacaction with the money channel.
+The Money Channel Budget Application allows end-users to take better control of their finances through knowledge and motivation. Whether the user is interested in tracking their expenses or planning to save up for something special down the road, this application can help you easily set your budget, log your expenses, and motivate you to your next goal. This application will provide stability to struggling households, as well as, relieve finacial stress off of college students. No more checking your bank account every hour, relax and look forward to your next vacaction with the money channel.
 
 Audience: 
   * College Students
