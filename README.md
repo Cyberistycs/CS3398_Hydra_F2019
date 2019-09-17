@@ -12,8 +12,12 @@
 * [Contact](#contact)
 
 ## General info
-Add more general information about project. What the purpose of the project is? Motivation?
+The Money Channey Budget Application allows end-users to take better control of their finances through knowledge and motivation. Whether the user is interested in tracking their expenses or planning to save up for something special down the road, this application can help you easily set your budget, log your expenses, and motivate you to your next goal. This application will provide stability to struggling households, as well as, relieve finacial stress off of college students. No more checking your bank account every hour, relax and look forward to your next vacaction with the money channel.
 
+Audience: 
+  * College Students
+  * Newly Weds
+  * Single Parents
 ## Screenshots
 ![Example screenshot](./img/screenshot.png)
 
@@ -31,9 +35,12 @@ Show examples of usage:
 
 ## Features
 List of features ready and TODOs for future development
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
+* Two-Factor Auth
+  *
+* Secure Login
+  *
+* Smooth Icons
+  *
 
 To-do list:
 * Wow improvement to be done 1
@@ -43,7 +50,12 @@ To-do list:
 Project is: _in progress_
 
 ## Inspiration
-Add here credits. Project inspired by..., based on...
+Add here credits. Project inspired by fellow member Zach Vasquez, based on...
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by Cyberristics (Hydra) - feel free to contact us!
+* Mack Scott
+* Blake Burns
+* Christian Coulter
+* Zach Vasquez
+* Muhammed Rasheed
