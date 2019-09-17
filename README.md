@@ -1,5 +1,3 @@
-# CS3398_Hydra_F2019
-Hail Hydra!!
 # Money Channel
 > Here goes your awesome project description!
 
