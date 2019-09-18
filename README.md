@@ -19,7 +19,7 @@ Audience:
   * Newly Weds
   * Single Parents
 ## Screenshots
-![Example screenshot](/Budget App Logo.jpeg)
+![Example screenshot](https://github.com/Cyberistycs/CS3398_Hydra_F2019/blob/master/Budget%20App%20Logo.jpeg)
 
 ## Technologies
 * Tech 1 - version 1.0
