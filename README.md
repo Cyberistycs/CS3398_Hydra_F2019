@@ -19,7 +19,7 @@ Audience:
   * Newly Weds
   * Single Parents
 ## Screenshots
-![Example screenshot](Budget App Logo.jpeg)
+![Example screenshot](/Budget App Logo.jpeg)
 
 ## Technologies
 * Tech 1 - version 1.0
