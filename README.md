@@ -22,9 +22,10 @@ Audience:
 ![Example screenshot](https://github.com/Cyberistycs/CS3398_Hydra_F2019/blob/master/Budget%20App%20Logo.jpeg)
 
 ## Technologies
-* Tech 1 - version 1.0
-* Tech 2 - version 2.0
-* Tech 3 - version 3.0
+* MongoDB
+* Node.js 
+* Command line tools
+* Xcode/Visual Studio Code
 
 ## Setup
 Describe how to install / setup your local environement / add link to demo version.
