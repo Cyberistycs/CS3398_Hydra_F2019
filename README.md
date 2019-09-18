@@ -38,13 +38,13 @@ Show examples of usage:
 List of features ready and TODOs for future development
 * Calculator
   * Allows user to calculate a budget.
-  * All users
+  * Story 1
 * Secure Login
   * Creates an account for a secure login.
-  * All users
+  * Story 4
 * Virtual Wallet
   * Allows a user to set a spending limit and change budget amounts.
-  * All users
+  * Story 6
 
 ## Status
 Project is: _in progress_
