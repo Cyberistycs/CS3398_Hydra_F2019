@@ -35,12 +35,12 @@ Show examples of usage:
 
 ## Features
 List of features ready and TODOs for future development
-* Two-Factor Auth
-  *
+* Calculator
+  * Allows user to calculate a budget.
 * Secure Login
-  *
-* Smooth Icons
-  *
+  * Creates an account for a secure login.
+* Virtual Wallet
+  * Allows a user to set a spending limit and change budget amounts.
 
 To-do list:
 * Wow improvement to be done 1
