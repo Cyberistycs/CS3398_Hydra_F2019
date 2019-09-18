@@ -37,14 +37,13 @@ Show examples of usage:
 List of features ready and TODOs for future development
 * Calculator
   * Allows user to calculate a budget.
+  * All users
 * Secure Login
   * Creates an account for a secure login.
+  * All users
 * Virtual Wallet
   * Allows a user to set a spending limit and change budget amounts.
-
-To-do list:
-* Wow improvement to be done 1
-* Wow improvement to be done 2
+  * All users
 
 ## Status
 Project is: _in progress_
