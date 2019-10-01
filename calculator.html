@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Balance Calculator</title>
+		<meta charset="UTF-8">
+		<meta name="description" content="I am creating the backbone of the calculator algorithm">
+		<meta name="author" content="Zach V">
+		<p id="demo"></p>
+
+		<script>
+							var newTrans = 'y';
+							var chosenAcc = 12000;
+							while(newTrans == 'y'){
+								var amountPaid = prompt("Please enter the amount paid: ", "<amount goes here>");
+        						var bal = balCalc(chosenAcc, amountPaid);
+
+								function balCalc(a, b) {
+  								return a - b;             // Function returns the product of a and b
+								}
+								chosenAcc = bal;
+								var newTransPrompt = prompt("Remaining in account: $" + chosenAcc + "\nWould you like to make another transaction? (y/n) ", "<y/n>");
+								newTrans = newTransPrompt;
+							}
+							document.getElementById("demo").innerHTML = ("Balance: $") + bal;
+							
+    						</script>
+		</head>
