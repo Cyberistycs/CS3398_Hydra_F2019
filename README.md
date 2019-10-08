@@ -69,6 +69,8 @@ Project is: The Money Channel is currently undergoing development process with c
 * Contact Us Page
   *Zach Vasquez will be creating a contact us page using html and css code.
 * About Us Page
+* Information Page
+* Services Page
 * More to come...
 
 ## Inspiration
