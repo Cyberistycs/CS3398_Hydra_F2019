@@ -48,6 +48,8 @@ List of features ready and TODOs for future development
 * Virtual Wallet
   * Allows a user to set a spending limit and change budget amounts.
   * Story 6
+* Notification System
+  * Christian Coulter set up a page to notify the user of important events happening with their budgeting account. These notifications would provide information on withdrawals and deposits, and provide the user with the option to clear them. 
 
 ## Status
 Project is: The Money Channel is currently undergoing development process with coding and designing the web application's framework. The next steps are to create the html and css code for the main application's features. 
