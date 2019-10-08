@@ -39,9 +39,8 @@ List of features ready and TODOs for future development
 * Landing Page
   * Mack Scott was able to outline and design the Web Application's Landing Page. This page is used as the introduction page when a user accesses the webpage. This landing page will provide the veiwer with the budget application info, and will be the source for user login.
   --Please refer to the Completed Issues folder *Issue_14
-* Notification System
-  * Christian Coulter set up a page to notify the user of important events happening with their budgeting account. These notifications would provide information on withdrawals and deposits, and provide the user with the option to clear them. 
-  --Please refer to the Completed Issues folder *Issue_3
+* Login Interface
+  * Blake Burns was able to design a login interface in which the user can interact and sign into the web application with an email and a password. This interface is the first thing that the user will see when they arrive to the web page and login to the application.
 * Calculator
   * Allows user to calculate a budget.
   * Story 1
@@ -52,12 +51,12 @@ List of features ready and TODOs for future development
   * Allows a user to set a spending limit and change budget amounts.
   * Story 6
 
-
 ## Status
 Project is: The Money Channel is currently undergoing development process with coding and designing the web application's framework. The next steps are to create the html and css code for the main application's features. 
 * Landing Page
   * The page's prototype was designed by Mack Scott, and now proceeds to develop the html and css code for this step.
 * User Login
+  * The page's prototype was designed by Blake Burns, and now is being developed using html and css code.
 * User Profile
 * User Homepage
 * Budget Page
