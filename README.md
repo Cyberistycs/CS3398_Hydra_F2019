@@ -67,6 +67,8 @@ Project is: The Money Channel is currently undergoing development process with c
   * The page's prototype was designed by Blake Burns and is now being processed into html and css code.
 * Contact Us Page
 * About Us Page
+* Information Page
+* Services Page
 * More to come...
 
 ## Inspiration
