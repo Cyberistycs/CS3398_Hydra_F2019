@@ -39,19 +39,20 @@ Show examples of usage:
 ## Features
 List of features ready and TODOs for future development
 * Landing Page
-  * Mack Scott was able to outline and design the Web Application's Landing Page. This page is used as the introduction page when a user accesses the webpage. This landing page will provide the veiwer with the budget application info, and will be the source for user login.
+  * Mack Scott was able to outline and design the Web Application's Landing Page. This page is used as the introduction page when a user accesses the webpage. This landing page will provide the viewer with the budget application info, and will be the source for user login.
   --Please refer to the Completed Issues folder *Issue_14
 * Login Interface
   * Blake Burns was able to design a login interface in which the user can interact and sign into the web application with an email and a password. This interface is the first thing that the user will see when they arrive to the web page and login to the application. --Please refer to the Completed Issues folder *Issue_8
 * Notifications Page
   * Christian Coulter designed a page that shows the user of important events happening with their budgeting account. These notifications would provide information on withdrawals and deposits, and provide the user with the option to clear them. 
   --Please refer to the Completed Issues folder *Issue_3
-* Calculator placeholder
-  * Zach Vasquez created a basic foundation for the calculator function that will be implemented in a later stage in development. The calculator right now has a dummy variable that represents the users account that they are using for their budget. This variable is then used to calculate future projections of the users account based on the input from the user, input being a future payment or transaction that the user has knowledge of. The amount projected to be in the account after the transaction(s) is then displayed once the user is finished.
+* Calculator
+  * Allows user to calculate a budget.
   * Story 1
 * Payment Hub
   * Blake Burns was able to layout and design a payment hub where the user is able to select their desired account, and make a payment from that account. The user is also able to leave a description of the payment as well as select the type of payment it will be. --Please refer to the Completed Issues folder *Issue_11
-
+* Budgetting Informational Page
+  * Muhammed Rasheed designed a page that informs users about budgetting. Users can learn about the basics of budgetting their money and investing.--Please refer to the Completed Issues folder *Issue_13
 ## Status
 Project is: The Money Channel is currently undergoing development process with coding and designing the web application's framework. The next steps are to create the html and css code for the main application's features. 
 * Landing Page
