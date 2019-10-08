@@ -36,6 +36,9 @@ Show examples of usage:
 
 ## Features
 List of features ready and TODOs for future development
+* Landing Page
+  * Mack Scott was able to outline and design the Web Application's Landing Page. This page is used as the introduction page when a user accesses the webpage. This landing page will provide the veiwer with the budget application info, and will be the source for user login.
+  --Please refer to the Completed Issues folder *Issue_14
 * Calculator
   * Allows user to calculate a budget.
   * Story 1
@@ -47,7 +50,17 @@ List of features ready and TODOs for future development
   * Story 6
 
 ## Status
-Project is: _in progress_
+Project is: The Money Channel is currently undergoing development process with coding and designing the web application's framework. The next steps are to create the html and css code for the main application's features. 
+* Landing Page
+  * The page's prototype was designed by Mack Scott, and now proceeds to develop the html and css code for this step.
+* User Login
+* User Profile
+* User Homepage
+* Budget Page
+* Transactions Info
+* Contact Us Page
+* About Us Page
+* More to come...
 
 ## Inspiration
 Add here credits. Project inspired by fellow member Zach Vasquez, based on...
