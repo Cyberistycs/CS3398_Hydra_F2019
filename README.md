@@ -60,7 +60,7 @@ List of features ready and TODOs for future development
 Project is: The Money Channel is currently undergoing development process with coding and designing the web application's framework. The next steps are to create the html and css code for the main application's features. 
 * Landing Page
   * The page's prototype was designed by Mack Scott, and now proceeds to develop the html and css code for this step.
-* User Login
+* Login Interface
   * The page's prototype was designed by Blake Burns, and is now being developed into html and css code.
 * User Profile
 * User Homepage
