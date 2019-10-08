@@ -46,9 +46,9 @@ List of features ready and TODOs for future development
 * Notifications Page
   * Christian Coulter designed a page that shows the user of important events happening with their budgeting account. These notifications would provide information on withdrawals and deposits, and provide the user with the option to clear them. 
   --Please refer to the Completed Issues folder *Issue_3
-* Calculator
-  * Allows user to calculate a budget.
-  * Story 1
+* Calculator placeholder
+  * Zach Vasquez created the foundation for the calculator that will be implemented in a later stage of development. The calculator has an initialized variable that represents the users account. This is then used to create future projections of the users account after they finish inputting the new transaction(s).
+  --Please refer to the Completed Issues folder *calculator.html
 * Payment Hub
   * Blake Burns was able to layout and design a payment hub where the user is able to select their desired account, and make a payment from that account. The user is also able to leave a description of the payment as well as select the type of payment it will be. --Please refer to the Completed Issues folder *Issue_11
 * Budgetting Informational Page
