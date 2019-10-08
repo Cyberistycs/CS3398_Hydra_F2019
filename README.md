@@ -62,6 +62,7 @@ Project is: The Money Channel is currently undergoing development process with c
 * User Profile
 * User Homepage
 * Budget Page
+   * The page's prototype was designed by Muhammed Rasheed, and is now being developed into html and css code.
 * Payment Hub
   * The page's prototype was designed by Blake Burns and is now being processed into html and css code.
 * Contact Us Page
