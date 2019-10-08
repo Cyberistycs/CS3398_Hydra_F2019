@@ -54,7 +54,6 @@ List of features ready and TODOs for future development
   * Story 4
 * Payment Hub
   * Blake Burns was able to layout and design a payment hub where the user is able to select their desired account, and make a payment from that account. The user is also able to leave a description of the payment as well as select the type of payment it will be. --Please refer to the Completed Issues folder *Issue_11
-  * Story 6
 
 ## Status
 Project is: The Money Channel is currently undergoing development process with coding and designing the web application's framework. The next steps are to create the html and css code for the main application's features. 
