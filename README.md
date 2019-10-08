@@ -49,9 +49,6 @@ List of features ready and TODOs for future development
 * Calculator
   * Allows user to calculate a budget.
   * Story 1
-* Secure Login
-  * Creates an account for a secure login.
-  * Story 4
 * Payment Hub
   * Blake Burns was able to layout and design a payment hub where the user is able to select their desired account, and make a payment from that account. The user is also able to leave a description of the payment as well as select the type of payment it will be. --Please refer to the Completed Issues folder *Issue_11
 
