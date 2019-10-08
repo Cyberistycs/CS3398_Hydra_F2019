@@ -40,8 +40,7 @@ List of features ready and TODOs for future development
   * Mack Scott was able to outline and design the Web Application's Landing Page. This page is used as the introduction page when a user accesses the webpage. This landing page will provide the veiwer with the budget application info, and will be the source for user login.
   --Please refer to the Completed Issues folder *Issue_14
 * Login Interface
-  * Blake Burns was able to design a login interface in which the user can interact and sign into the web application with an email and a password. This interface is the first thing that the user will see when they arrive to the web page and login to the application.
-  * Issue_8
+  * Blake Burns was able to design a login interface in which the user can interact and sign into the web application with an email and a password. This interface is the first thing that the user will see when they arrive to the web page and login to the application. --Please refer to the Completed Issues folder *Issue_8
 * Notification System
   * Christian Coulter set up a page to notify the user of important events happening with their budgeting account. These notifications would provide information on withdrawals and deposits, and provide the user with the option to clear them. 
   --Please refer to the Completed Issues folder *Issue_3
