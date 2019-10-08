@@ -52,8 +52,8 @@ List of features ready and TODOs for future development
 * Secure Login
   * Creates an account for a secure login.
   * Story 4
-* Virtual Wallet
-  * Allows a user to set a spending limit and change budget amounts.
+* Payment Hub
+  * Blake Burns was able to layout and design a payment hub where the user is able to select their desired account, and make a payment from that account. The user is also able to leave a description of the payment as well as select the type of payment it will be. --Please refer to the Completed Issues folder *Issue_11
   * Story 6
 
 ## Status
@@ -65,7 +65,8 @@ Project is: The Money Channel is currently undergoing development process with c
 * User Profile
 * User Homepage
 * Budget Page
-* Transactions Info
+* Payment Hub
+  * The page's prototype was designed by Blake Burns and is now being processed into html and css code.
 * Contact Us Page
 * About Us Page
 * More to come...
