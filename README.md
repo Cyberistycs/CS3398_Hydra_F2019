@@ -61,11 +61,13 @@ Project is: The Money Channel is currently undergoing development process with c
   * The page's prototype was designed by Blake Burns, and is now being developed into html and css code.
 * User Profile
 * User Homepage
+  * The page's prototype was designed by Zach Vasquez, implementation of this page has begun using html and css code.
 * Budget Page
    * The page's prototype was designed by Muhammed Rasheed, and is now being developed into html and css code.
 * Payment Hub
   * The page's prototype was designed by Blake Burns and is now being processed into html and css code.
 * Contact Us Page
+  *Zach Vasquez will be creating a contact us page using html and css code.
 * About Us Page
 * More to come...
 
