@@ -24,6 +24,8 @@ Audience:
 ## Technologies
 * MongoDB
 * Node.js 
+* DataGrip
+* WebStorm
 * Command line tools
 * Xcode/Visual Studio Code
 
