@@ -78,27 +78,27 @@ Project is: The Money Channel is currently undergoing development process with c
 ## Retrospective
 * What Went Well or maybe not/
   * Team: 
-     *
-     *
-     *
-     *
+     * The team worked great together.
+     * Everyone on the team was open to ideas.
+     * Teamates were as flexible as possible when it came to meeting times.
+     * We were able to develope a working prototype.
   * Individual:
-     *
-     *
-     *
-     *
-     *
+     * Mack:
+     * Blake:
+     * Christian:
+     * Zach:
+     * Muhammed: 
 * What Might Be Impeding Us from Performing Better?
-  *
+  * 
 * What Can We do to Improve?
   * Team:
-     *
+     * Set a scheduled meeting time each week that works with every member of the team.
   * Individual:
-     *
-     *
-     *
-     *
-     *
+     * Mack:
+     * Blake:
+     * Christian:
+     * Zach:
+     * Muhammed: 
 
 ## Inspiration
 Add here credits. Project inspired by fellow member Zach Vasquez, based on...
