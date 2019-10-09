@@ -84,7 +84,7 @@ Project is: The Money Channel is currently undergoing development process with c
      * We were able to develope a working prototype.
   * Individual:
      * Mack:
-     * Blake:  
+     * Blake: The team really works well together. Everyone gets along great!  
      * Christian:
      * Zach:
      * Muhammed: 
@@ -95,7 +95,7 @@ Project is: The Money Channel is currently undergoing development process with c
      * Set a scheduled meeting time each week that works with every member of the team.
   * Individual:
      * Mack:
-     * Blake: 
+     * Blake: Be able to all sit down and come up with a specific time that works with everyones schedule, to be able to meet        up weekly to work on tasks. 
      * Christian:
      * Zach:
      * Muhammed: 
