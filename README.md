@@ -69,8 +69,9 @@ Project is: The Money Channel is currently undergoing development process with c
 * Payment Hub
   * The page's prototype was designed by Blake Burns and is now being processed into html and css code.
 * Contact Us Page
-  * Zach Vasquez will be creating a contact us page using html and css code.
+  *Zach Vasquez will be creating a contact us page using html and css code.
 * About Us Page
+  * In addition to the Landing Page, Mack Scott will be introducing the About Us Page, which will include all of the information about the team's mission and what the application is about.
 * Information Page
 * Services Page
 * More to come...
@@ -83,10 +84,10 @@ Project is: The Money Channel is currently undergoing development process with c
      * Teammates were as flexible as possible when it came to meeting times.
      * We were able to develop a working prototype.
   * Individual:
-     * Mack:
-     * Blake: The team really works well together. Everyone gets along great! 
+     * Mack: I was able to work will with the team, and act as a team lead to facilitate all of our task.
+     * Blake: The team really works well together. Everyone gets along great!  
      * Christian: The team did a good job sharing their tasks so that others could implement them on their own computers.
-     * Zach: Spacing out the work time allowed me to better focus on the tasks assigned to me.
+     * Zach:
      * Muhammed: 
 * What Might Be Impeding Us from Performing Better?
   * Finding the time so that the whole team is able to meet together to stay on top, and see that tasks are being completed in     an efficient manner.
@@ -94,10 +95,10 @@ Project is: The Money Channel is currently undergoing development process with c
   * Team:
      * Set a scheduled meeting time each week that works with every member of the team.
   * Individual:
-     * Mack:
-     * Blake: I need to find a time where I can sit down and talk with the team to explain what progress I have made. 
+     * Mack: I believe that we can improve our project by creating the html and css code for this project, as this is not currently in place.
+     * Blake: Be able to all sit down and come up with a specific time that works with everyones schedule, to be able to meet        up weekly to work on tasks. 
      * Christian: Identify the tasks and the days I need to complete them in order to stay on schedule with the sprint timeline. 
-     * Zach: Better document what I have done and update the read me with it, and what I plan on doing.
+     * Zach:
      * Muhammed: 
 
 ## Inspiration
