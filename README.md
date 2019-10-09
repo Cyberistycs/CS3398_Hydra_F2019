@@ -86,7 +86,7 @@ Project is: The Money Channel is currently undergoing development process with c
      * Mack:
      * Blake:  
      * Christian:
-     * Zach:
+     * Zach: Spacing out the work time allowed me to better focus on the tasks assigned to me.
      * Muhammed: 
 * What Might Be Impeding Us from Performing Better?
   * Finding the time so that the whole team is able to meet together to stay on top, and see that tasks are being completed in     an efficient manner.
@@ -97,7 +97,7 @@ Project is: The Money Channel is currently undergoing development process with c
      * Mack:
      * Blake: 
      * Christian:
-     * Zach:
+     * Zach: Better document what I have done and update the read me with it, and what I plan on doing.
      * Muhammed: 
 
 ## Inspiration
