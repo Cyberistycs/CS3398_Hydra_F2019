@@ -76,7 +76,7 @@ Project is: The Money Channel is currently undergoing development process with c
 * More to come...
 
 ## Retrospective
-* What Went Well or maybe not/
+* What Went Well or maybe not?
   * Team: 
      * The team worked great together.
      * Everyone on the team was open to ideas.
@@ -84,18 +84,18 @@ Project is: The Money Channel is currently undergoing development process with c
      * We were able to develope a working prototype.
   * Individual:
      * Mack:
-     * Blake:
+     * Blake:  
      * Christian:
      * Zach:
      * Muhammed: 
 * What Might Be Impeding Us from Performing Better?
-  * 
+  * Finding the time so that the whole team is able to meet together to stay on top, and see that tasks are being completed in     an efficient manner.
 * What Can We do to Improve?
   * Team:
      * Set a scheduled meeting time each week that works with every member of the team.
   * Individual:
      * Mack:
-     * Blake:
+     * Blake: 
      * Christian:
      * Zach:
      * Muhammed: 
