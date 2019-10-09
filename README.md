@@ -95,7 +95,7 @@ Project is: The Money Channel is currently undergoing development process with c
      * Set a scheduled meeting time each week that works with every member of the team.
   * Individual:
      * Mack:
-     * Blake: Be able to all sit down and come up with a specific time that works with everyones schedule, to be able to meet        up weekly to work on tasks. 
+     * Blake: I need to find a time where I can sit down and talk with the team to explain what progress I have made. 
      * Christian: Identify the tasks and the days I need to complete them in order to stay on schedule with the sprint timeline. 
      * Zach: Better document what I have done and update the read me with it, and what I plan on doing.
      * Muhammed: 
