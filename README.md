@@ -75,6 +75,31 @@ Project is: The Money Channel is currently undergoing development process with c
 * Services Page
 * More to come...
 
+## Retrospective
+* What Went Well or maybe not/
+  * Team: 
+     *
+     *
+     *
+     *
+  * Individual:
+     *
+     *
+     *
+     *
+     *
+* What Might Be Impeding Us from Performing Better?
+  *
+* What Can We do to Improve?
+  * Team:
+     *
+  * Individual:
+     *
+     *
+     *
+     *
+     *
+
 ## Inspiration
 Add here credits. Project inspired by fellow member Zach Vasquez, based on...
 
