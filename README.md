@@ -69,7 +69,7 @@ Project is: The Money Channel is currently undergoing development process with c
 * Payment Hub
   * The page's prototype was designed by Blake Burns and is now being processed into html and css code.
 * Contact Us Page
-  *Zach Vasquez will be creating a contact us page using html and css code.
+  * Zach Vasquez will be creating a contact us page using html and css code.
 * About Us Page
 * Information Page
 * Services Page
