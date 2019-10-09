@@ -80,12 +80,12 @@ Project is: The Money Channel is currently undergoing development process with c
   * Team: 
      * The team worked great together.
      * Everyone on the team was open to ideas.
-     * Teamates were as flexible as possible when it came to meeting times.
-     * We were able to develope a working prototype.
+     * Teammates were as flexible as possible when it came to meeting times.
+     * We were able to develop a working prototype.
   * Individual:
      * Mack:
      * Blake: The team really works well together. Everyone gets along great!  
-     * Christian:
+     * Christian: The team did a good job sharing their tasks so that others could implement them on their own computers.
      * Zach:
      * Muhammed: 
 * What Might Be Impeding Us from Performing Better?
@@ -96,7 +96,7 @@ Project is: The Money Channel is currently undergoing development process with c
   * Individual:
      * Mack:
      * Blake: Be able to all sit down and come up with a specific time that works with everyones schedule, to be able to meet        up weekly to work on tasks. 
-     * Christian:
+     * Christian: Identify the tasks and the days I need to complete them in order to stay on schedule with the sprint timeline. 
      * Zach:
      * Muhammed: 
 
