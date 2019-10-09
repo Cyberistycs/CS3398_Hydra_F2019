@@ -88,7 +88,7 @@ Project is: The Money Channel is currently undergoing development process with c
      * Blake: The team really works well together. Everyone gets along great!   
      * Christian: The team did a good job sharing their tasks so that others could implement them on their own computers.
      * Zach: Spacing out the work time allowed me to better focus on the tasks assigned to me.
-     * Muhammed: 
+     * Muhammed: Sharing ideas and agreeing on a similiar goal was a simpple process.
 * What Might Be Impeding Us from Performing Better?
   * Finding the time so that the whole team is able to meet together to stay on top, and see that tasks are being completed in     an efficient manner.
 * What Can We do to Improve?
@@ -99,7 +99,7 @@ Project is: The Money Channel is currently undergoing development process with c
      * Blake: I need to find a time where I can sit down and talk with the team to explain what progress I have made. 
      * Christian: Identify the tasks and the days I need to complete them in order to stay on schedule with the sprint timeline. 
      * Zach: Better document what I have done and update the read me with it, and what I plan on doing.
-     * Muhammed: 
+     * Muhammed: I need to get better at javascript so that I can connect the front end part of my web page to the back end.
 
 ## Inspiration
 Add here credits. Project inspired by fellow member Zach Vasquez, based on...
