@@ -89,7 +89,7 @@ Project is: The Money Channel is currently undergoing development process with c
      * Blake: The team really works well together. Everyone gets along great!   
      * Christian: The team did a good job sharing their tasks so that others could implement them on their own computers.
      * Zach: Spacing out the work time allowed me to better focus on the tasks assigned to me.
-     * Muhammed: Sharing ideas and agreeing on a similiar goal was a simpple process.
+     * Muhammed: Sharing ideas and agreeing on a similiar goal was a smooth process.
 * What Might Be Impeding Us from Performing Better?
   * Finding the time so that the whole team is able to meet together to stay on top, and see that tasks are being completed in     an efficient manner.
 * What Can We do to Improve?
