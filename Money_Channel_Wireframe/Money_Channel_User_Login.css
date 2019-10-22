@@ -56,16 +56,21 @@ h1{
     font-size: 16px;
 }
 
-.loginbox input[type="button"]{
+.loginbox .button{
+    padding: 10px 20px;
+    text-align: center;
     border: none;
     outline: none;
-    height: 40px;
+    position: absolute;
+    width: 150px;
+    top: 80%;
+    left: 20%;
     background: #FF0000;
     color: #ffffff;
     font-size: 18px;
     border-radius: 20px;
 }
-.loginbox input[type="button"]:hover
+.loginbox .button:hover
 {
     cursor: pointer;
     background: #19BDD3;
@@ -82,11 +87,13 @@ h1{
     color: #FF0000;
 }
 
+.signUpBox{
 
+}
 
 .signUp .signUpBox {
-    width: 320px;
-    height: 420px;
+    width: 400px;
+    height: 600px;
     background: black;
     color: #ffffff;
     top: 50%;
@@ -94,7 +101,7 @@ h1{
     position: absolute;
     transform: translate(-50%,-50%);
     box-sizing: border-box;
-    padding: 70px 30px;
+    padding: 30px 30px;
     border-radius: 5%;
 }
 
@@ -119,17 +126,7 @@ h1{
     font-size: 16px;
 }
 
-.signUpBox input[type="button"]{
-    border: none;
-    outline: none;
-    height: 40px;
-    background: #FF0000;
-    color: #ffffff;
-    font-size: 18px;
-    border-radius: 20px;
-}
-
-.signUpBox input[type="button"]:hover
+.signUpBox .button:hover
 {
     cursor: pointer;
     background: #19BDD3;
@@ -137,9 +134,14 @@ h1{
 }
 
 .signUpBox .button{
+    padding: 10px 20px;
+    text-align: center;
     border: none;
     outline: none;
-    height: 40px;
+    position: absolute;
+    width: 150px;
+    top: 82%;
+    left: 105px;
     background: #FF0000;
     color: #ffffff;
     font-size: 18px;
@@ -147,12 +149,92 @@ h1{
 }
 
 .signUpBox a{
+    width: 340px;
+    text-align: center;
+    position: absolute;
+    top: 90%;
     text-decoration: none;
     font-size: 12px;
     line-height: 12px;
     color: darkgray;
 }
 .signUpBox a:hover
+{
+    color: #FF0000;
+}
+
+.forgotPass{
+
+}
+
+.forgotPass .forgotPassBox {
+    width: 400px;
+    height: 240px;
+    background: black;
+    color: #ffffff;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    box-sizing: border-box;
+    padding: 30px 30px;
+    border-radius: 5%;
+}
+
+.forgotPassBox p{
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+}
+
+.forgotPassBox input{
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.forgotPassBox input[type="text"], input[type="Email Address"]{
+    border: none;
+    border-bottom: 1px solid #ffffff;
+    background: transparent;
+    outline: none;
+    height: 40px;
+    color: #ffffff;
+    font-size: 16px;
+}
+
+.forgotPassBox .button:hover
+{
+    cursor: pointer;
+    background: #19BDD3;
+    color: #000000;
+}
+
+.forgotPassBox .button{
+    padding: 10px 20px;
+    text-align: center;
+    border: none;
+    outline: none;
+    position: absolute;
+    width: 150px;
+    top: 67%;
+    left: 105px;
+    background: #FF0000;
+    color: #ffffff;
+    font-size: 18px;
+    border-radius: 20px;
+}
+
+.forgotPassBox a{
+    width: 340px;
+    position: absolute;
+    text-align: center;
+    top: 85%;
+    text-decoration: none;
+    font-size: 12px;
+    line-height: 12px;
+    color: darkgray;
+}
+.forgotPassBox a:hover
 {
     color: #FF0000;
 }
