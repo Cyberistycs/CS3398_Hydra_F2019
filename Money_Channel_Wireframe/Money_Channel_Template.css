@@ -1,0 +1,72 @@
+.body{
+    padding: 0;
+    margin: 0;
+    background-color: #C4C4C4;
+}
+
+.navigation{
+    height: 80px;
+    background: white;
+}
+
+.logo{
+    width: 80px;
+    height: 80px;
+    position: absolute;
+}
+
+.logo_name{
+    left: 80px;
+    top: 50px;
+    position: absolute;
+}
+
+.accountHeader{
+    padding: 0;
+    margin: 0;
+    height: 200px;
+    background: linear-gradient(to right, #19BDD3, #C4C4C4);
+}
+
+.accountHeader .time{
+    top: 120px;
+    left: 40px;
+    position: absolute;
+}
+
+.accountHeader div{
+    top: 180px;
+    left: 200px;
+    position: absolute;
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+ul li{
+    margin: 0;
+    padding: 0;
+    background-color: #C4C4C4;
+    width: 150px;
+    height: 50px;
+    border: 1px solid #19BDD3;
+    line-height: 50px;
+    text-align: center;
+    float: right;
+}
+
+ul li:hover{
+    background-color: #19BDD3;
+}
+
+ul ul{
+    display: none;
+}
+
+ul li:hover > ul{
+    display: block;
+}
+
