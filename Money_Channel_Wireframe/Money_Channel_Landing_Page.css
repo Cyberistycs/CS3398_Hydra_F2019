@@ -53,11 +53,24 @@ html, body{
 }
 
 p{
+    max-width: 40%;
     font-size: 160%;
     line-height: 210%;
     text-align: justify;
     margin: 3%;
     font-family: sans-serif;
+}
+
+iframe{
+    position: absolute;
+    top: 1120px;
+    left: 50%;
+}
+
+h3{
+    margin: 3%;
+    font-size: 320%;
+    font-family: 'Roboto', Arial;
 }
 
 .version .free_box{
@@ -183,7 +196,45 @@ p{
     text-transform: uppercase;
 }
 
+.navigation{
+    margin: 0;
+    height: 200px;
+    width: 100%;
+    background: #C4C4C4;
+    position: relative;
+    top: 80%;
+}
 
+.navigation .button_AboutUs{
+    position: absolute;
+    top: 20%;
+    left: 30%;
+
+}
+
+.navigation .button_Services{
+    position: absolute;
+    top: 20%;
+    left: 40%;
+}
+
+.navigation .button_ContactUs{
+    position: absolute;
+    top: 20%;
+    left: 50%;
+}
+
+.navigation .button_Resources{
+    position: absolute;
+    top: 20%;
+    left: 60%;
+}
+
+.navigation .button_FAQs{
+    position: absolute;
+    top: 20%;
+    left: 70%;
+}
 
 
 @media screen and (max-width: 768px) {
