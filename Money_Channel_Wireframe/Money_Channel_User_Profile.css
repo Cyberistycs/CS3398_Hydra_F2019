@@ -1,18 +1,23 @@
 .body {
     background: #ffffff none repeat scroll 0 0;
-    border: 1px solid #e1e8ed;
-    border-radius: 6px;
     height: 800px;
-    max-width: 1360px; // orginal twitter width: 1160px;
+    max-width: 1360px;
     margin: auto;
     font-family: sans-serif;
+}
+
+.logo {
+    height: 50px;
+    width: 225px;
+    margin: 30px 15px -20px;
 }
 
 .navigation{
     height: 80px;
     background: white;
     font-family: 'Roboto', Arial;
-    margin-bottom: -81px;
+    margin: -30px 0 0;
+
 }
 
 .accountHeader{
@@ -67,14 +72,14 @@ ul li:hover > ul{
     border-radius: 6px;
     display: inline-block !important;
     float: left;
-    margin: -115px 5px 0 15px;
+    margin: 8px 125px 15px;
     max-width: 100%;
     padding: 1px;
     vertical-align: bottom;
 }
 .twPc-avatarImg {
     border: 2px solid #fff;
-    border-radius: 7px;
+    border-radius: 100px;
     box-sizing: border-box;
     color: #fff;
     height: 200px;
@@ -93,21 +98,21 @@ ul li:hover > ul{
     font-family: 'Roboto', Arial;
     font-size: 35px;
     font-weight: 700;
-    line-height: 35px;
+    line-height: 40px;
     height: 40px;
 }
 
 .twPc-divName h1 {
     font-family: 'Roboto', Arial;
     font-size: 100%;
-    margin: -6px 0 0;
+    margin: -6px 118px 0;
     color: inherit !important;
 }
 
 .twPc-divName h2 {
     font-family: 'Roboto', Arial;
     font-size: 60%;
-    margin: -6px 0 0;
+    margin: -6px 135px 0;
 
 }
 
@@ -141,24 +146,23 @@ ul.twPc-Arrange {
     font-family: 'Roboto', Arial;
 }
 
-.button{
-    border-radius: 12px;
+.button {
+    border-radius: 30px;
     font-family: sans-serif;
-    color: black;
-    font-size: 115%;
-    padding: 5px 15px;
+    color: white;
+    font-size: 80%;
+    padding: 7px 40px;
     margin-left: 550px;
     border: solid 3px;
     text-decoration: none;
+    background: red;
 }
 
 .button:hover{
-    background: darkgray;
-    border: solid black 3px
+    background: #19BDD3;
 }
 
-
-.savings {
+.budget {
     width: 700px;
     height: 100px;
     background: white;
@@ -169,44 +173,77 @@ ul.twPc-Arrange {
     border-radius: 20px;
 }
 
-.savings .saveText {
+.navigation{
+    height: 80px;
+    background: white;
+
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+ul li{
+    margin: 0;
+    padding: 0;
+    background-color: #C4C4C4;
+    width: 150px;
+    height: 60px;
+    border: 1px solid #19BDD3;
+    line-height: 50px;
+    text-align: center;
+    float: right;
+}
+
+ul li:hover{
+    background-color: #19BDD3;
+}
+
+ul ul{
+    display: none;
+}
+
+ul li:hover > ul{
+    display: block;
+}
+
+.budget .budgetText {
     font-family: 'Roboto', Arial;
 }
 
-.checking {
-    width: 700px;
-    height: 100px;
+.usrInfo {
+    width: 500px;
+    height: 700px;
     background: white;
     border: solid #C4C4C4;
-    margin: 25px 30px 0;
+    margin: -200px 780px 0;
     box-sizing: border-box;
     padding: 13px 30px;
     border-radius: 20px;
 }
 
-.checking .checkText {
-    font-family: 'Roboto', Arial;
+.uName {
+    margin: 300px 0px 30px;
 }
 
-.other {
-    width: 700px;
-    height: 100px;
-    background: white;
-    border: solid #C4C4C4;
-    margin: 25px 30px 0;
-    box-sizing: border-box;
-    padding: 13px 30px;
-    border-radius: 20px;
+.eMail {
+    margin: 0 0 30px;
 }
 
-.other .otherText {
-    font-family: 'Roboto', Arial;
+.pWord {
+    margin: 0 0 30px;
+}
+
+.pNumber {
+    margin: 0 0 30px;
 }
 
 .bottom{
-    margin: 0;
-    height: 65px;
-    width: 100%;
+    margin: 0 0 0;
+    height: 60px;
+    max-width: 1360px;
     background: #C4C4C4;
     position: relative;
     top: 25%;
