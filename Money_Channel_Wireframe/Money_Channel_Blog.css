@@ -1,26 +1,35 @@
 body {
     padding: 0;
     margin: 0;
-    background: url("Landing_Page_RV.jpg.jpg");
+    width: auto;
+    height: auto;
+    background: url("Landing_Page_RV.jpg.jpg") no-repeat 0% -60%;
     font-family: sans-serif;
-}
-
-.logo {
-    height: 50px;
-    width:225px;
-    margin: 15px 15px 0;
 }
 
 .navigation{
     height: 80px;
     background: white;
-    margin: -70px 0 0;
+}
+
+.logo{
+    width: 80px;
+    height: 80px;
+    position: absolute;
+}
+
+.logo_name{
+    left: 80px;
+    top: 50px;
+    position: absolute;
 }
 
 ul{
     margin: 0;
     padding: 0;
     list-style: none;
+    position: relative;
+    top: 20px;
 }
 
 ul li{
@@ -28,11 +37,12 @@ ul li{
     padding: 0;
     background-color: #C4C4C4;
     width: 150px;
-    height: 60px;
+    height: 50px;
     border: 1px solid #19BDD3;
     line-height: 50px;
     text-align: center;
     float: right;
+
 }
 
 ul li:hover{
@@ -40,6 +50,10 @@ ul li:hover{
 }
 
 ul ul{
+    position: relative;
+    top: 0;
+    margin: 0;
+    padding: 0;
     display: none;
 }
 
