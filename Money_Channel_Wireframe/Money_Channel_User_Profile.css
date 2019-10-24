@@ -72,7 +72,7 @@ ul li:hover > ul{
     border-radius: 6px;
     display: inline-block !important;
     float: left;
-    margin: 8px 125px 15px;
+    margin: -30px 125px 15px;
     max-width: 100%;
     padding: 1px;
     vertical-align: bottom;
@@ -104,16 +104,16 @@ ul li:hover > ul{
 
 .twPc-divName h1 {
     font-family: 'Roboto', Arial;
-    font-size: 100%;
-    margin: -6px 118px 0;
+    font-size: 35px;
     color: inherit !important;
+    text-align: center;
 }
 
 .twPc-divName h2 {
     font-family: 'Roboto', Arial;
-    font-size: 60%;
-    margin: -6px 135px 0;
-
+    font-size: 25px;
+    text-align: center;
+    margin-top: -40px;
 }
 
 .twPc-Arrange {
