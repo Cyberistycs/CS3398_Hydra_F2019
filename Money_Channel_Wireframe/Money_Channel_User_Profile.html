@@ -1,35 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <title>User Profile</title>
     <link href="https://fonts.googleapis.com/css?family=Notable|PT+Sans|PT+Serif&display=swap" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="Money_Channel_User_Profile.css">
+    <script>
+    function displayDate() {
 
+    var date = new Date();
+
+    var mm = date.getMonth()+1;
+    var dd = date.getDate();
+    var yyyy = date.getFullYear();
+
+    if (mm < 10){
+    mm = '0' + mm;
+    }
+
+    if (dd < 10){
+    dd = '0' + dd;
+    }
+    var html = "";
+
+    html += "Welcome Back, Jane!<br>";
+    html +=  mm + '/' + dd + '/' + yyyy;
+    document.getElementById("showDate").innerHTML = html;
+
+    setTimeout(displayDate, 1000);
+    }
+    </script>
 </head>
-
-<div class="body">
-    <img src="logo_name.jpg" class="logo">
+<body onload="displayDate()">
+<div>
     <section class="navigation">
-        <ul>
-            <li>Notifications</li>
-            <li>Progress Report</li>
-            <li>My Account
-                <ul>
-                    <li>My Budget</li>
-                    <li>My Transactions</li>
-                    <li>Logout</li>
-                </ul>
-            </li>
-        </ul>
-    </section>
+    <img src="Budget%20App%20Logo.jpeg" class="logo">
+    <a>
+    <img src="logo_name.jpg" class="logo_name">
+    </a>
 
+    <ul>
+    <li>Notifications</li>
+    <li>Progress Report</li>
+<li>My Account
+<ul>
+<li>My Budget</li>
+<li>My Transactions</li>
+<li>Logout</li>
+</ul>
+</li>
+</ul>
+</section>
+
+<section class="accountHeader">
+    <img src="128x128.png" class="time">
+    <div id="showDate"></div>
+
+    </section>
+    <section class="content">
     <a class="twPc-bg twPc-block">
 
     </a>
     <div class = "myAcct">
-        <h1>My Accounts</h1>
+    <h1>My Accounts</h1>
+        <div class = "newTrans">
+            <a class = "button">New Transaction</a>
     </div>
-    <div class = "newTrans">
-        <a class = "button">New Transaction</a>
     </div>
     <div class = "budget">
         <div class = "budgetText">
@@ -37,41 +73,36 @@
         </div>
     </div>
 
-    <section class = usrInfo>
-        <section class = usrInformation>
-            <a title="Jane L. Doe"  class="twPc-avatarLink">
-                <img src="profilepic.jpg" class="twPc-avatarImg">
-            </a>
-            <div class="twPc-divUser">
-                <div class="twPc-divName">
-                    <h1 >Jane L. Doe</h1>
-                    <h2 >San Marcos - TX</h2>
-                </div>
+<section class = usrInfo>
+    <section class = usrInformation>
+    <a title="Jane L. Doe"  class="twPc-avatarLink">
+    <img src="profilepic.jpg" class="twPc-avatarImg">
+    </a>
+    <div class="twPc-divUser">
+    <h1 >Jane L. Doe</h1>
+    <h2 >San Marcos - TX</h2>
 
-                <div class = uName>
-                    <j1 >Username: jane-doe1234</j1>
-                </div>
-                <div class = eMail>
-                    <j2 >Email: jane@example.com</j2>
-                </div>
-                <div  class = pWord >
-                    <j4 >Password: ********* </j4>
-                </div>
-                <div class = pNumber>
-                    <j5 >Phone Number: 310-934-7289</j5>
+    <p >Username: jane-doe1234</p>
+    <p >Email: jane@example.com</p>
+    <p >Password: ********* </p>
+    <p >Phone Number: 310-934-7289</p>
 
-            </div>
-        </div>
-        </section>
-    </section>
-
-    <section class="bottom">
-        <div class="footer">
-            <a class="button_AboutUs"  href="Money_Channel_User_Login.html"> About Us</a>
-            <a class="button_Services"  href="Money_Channel_Services_Page.html"> Services</a>
-            <a class="button_Resources"  href="Money_Channel_User_Login.html"> Resources</a>
-            <a class="button_ContactUs"  href="Money_Channel_User_Login.html"> Contact Us</a>
-            <a class="button_FAQs"  href="Money_Channel_User_Login.html"> FAQs</a>
-        </div>
+</div>
     </section>
 </section>
+</section>
+</div>
+
+<section class="bottom">
+    <div class="footer">
+    <a class="button_AboutUs"  href="Money_Channel_User_Login.html"> About Us</a>
+<a class="button_Services"  href="Money_Channel_Services_Page.html"> Services</a>
+    <a class="button_Resources"  href="Money_Channel_User_Login.html"> Resources</a>
+    <a class="button_ContactUs"  href="Money_Channel_User_Login.html"> Contact Us</a>
+<a class="button_FAQs"  href="Money_Channel_User_Login.html"> FAQs</a>
+    </div>
+    </section>
+
+    </body>
+    </html>
+
