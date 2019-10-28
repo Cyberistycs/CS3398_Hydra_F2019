@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Notifications</title>
+    <link href="https://fonts.googleapis.com/css?family=Notable|PT+Sans|PT+Serif&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="Money_Channel_Notifications.css">
+    <script>
+        function displayDate() {
+
+            var date = new Date();
+
+            var mm = date.getMonth()+1;
+            var dd = date.getDate();
+            var yyyy = date.getFullYear();
+
+            if (mm < 10){
+                mm = '0' + mm;
+            }
+
+            if (dd < 10){
+                dd = '0' + dd;
+            }
+            var html = "";
+
+            html += "Welcome Back, Jane!<br>";
+            html +=  mm + '/' + dd + '/' + yyyy;
+            document.getElementById("showDate").innerHTML = html;
+
+            setTimeout(displayDate, 1000);
+        }
+    </script>
+</head>
+
+
+<body onload="displayDate()">
+<section class="navigation">
+    <img src="Budget%20App%20Logo.jpeg" class="logo">
+    <img src="logo_name.jpg" class="logo_name">
+    <ul>
+        <li>Notifications</li>
+        <li>Progress Report</li>
+        <li>My Account
+            <ul>
+                <li>My Budget</li>
+                <li>My Transactions</li>
+                <li>Logout</li>
+            </ul>
+        </li>
+    </ul>
+</section>
+</body>
+<section class="accountHeader">
+    <img src="128x128.png" class="time">
+    <div id="showDate"></div>
+</section>
+
+<section class = "notifPage">
+    <h1>Notifications</h1>
+    <p>Click on the "x" symbol to close the alert message.</p>
+    <div class="alert">
+        <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>
+        <strong>Success!</strong> Your account balance has been updated.
+    </div>
+    <div class="alert 1">
+        <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>
+        <strong>Success!</strong> Your account balance has been updated.
+    </div>
+</section>
+
+
+</body>
+</html>
