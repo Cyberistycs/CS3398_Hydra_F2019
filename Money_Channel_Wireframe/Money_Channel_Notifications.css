@@ -1,0 +1,123 @@
+
+
+.body{
+    padding: 0;
+    margin: 0;
+    background-color: #C4C4C4;
+    font-family: sans-serif;
+}
+
+.navigation{
+    height: 80px;
+    background: white;
+}
+
+.logo{
+    width: 80px;
+    height: 80px;
+    position: absolute;
+}
+
+.logo_name{
+    left: 80px;
+    top: 50px;
+    position: absolute;
+}
+
+.accountHeader{
+    padding: 0;
+    margin: 0;
+    height: 200px;
+    background: linear-gradient(to left, #19BDD3, #FF0000);
+}
+
+.accountHeader .time{
+    top: 120px;
+    left: 40px;
+    position: absolute;
+}
+
+.accountHeader div{
+    top: 180px;
+    left: 200px;
+    position: absolute;
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    position: relative;
+    top: 20px;
+}
+
+ul li{
+    margin: 0;
+    padding: 0;
+    background-color: #C4C4C4;
+    width: 150px;
+    height: 50px;
+    border: 1px solid #19BDD3;
+    line-height: 50px;
+    text-align: center;
+    float: right;
+
+}
+
+ul li:hover{
+    background-color: #19BDD3;
+}
+
+ul ul{
+    position: relative;
+    top: 0;
+    margin: 0;
+    padding: 0;
+    display: none;
+}
+
+ul li:hover > ul {
+    display: block;
+}
+
+.alert {
+    width: 650px;
+    padding: 25px;
+    background-color: #19BDD3;
+    color: white;
+    opacity: 1;
+    transition: opacity 0.6s;
+    margin-bottom: 15px;
+    margin-left: 55px;
+    font-family: sans-serif;
+    font-size: 130%;
+}
+
+.alert.one {background-color: #19BDD3;}
+
+.notifPage h1{
+    font-family: sans-serif;
+    font-size: 250%;
+    margin-left: 50px;
+}
+
+.notifPage p{
+    font-family: sans-serif;
+    font-size: 150%;
+    margin-left: 65px;
+}
+
+.closebtn {
+    margin-left: 15px;
+    color: white;
+    font-weight: bold;
+    float: right;
+    font-size: 22px;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.closebtn:hover {
+    color: black;
+}
