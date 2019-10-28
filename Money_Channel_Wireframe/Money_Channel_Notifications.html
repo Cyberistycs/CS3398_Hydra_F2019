@@ -7,7 +7,6 @@
     <link rel="stylesheet" type="text/css" href="Money_Channel_Notifications.css">
     <script>
         function displayDate() {
-
             var date = new Date();
 
             var mm = date.getMonth()+1;
@@ -22,11 +21,9 @@
                 dd = '0' + dd;
             }
             var html = "";
-
             html += "Welcome Back, Jane!<br>";
             html +=  mm + '/' + dd + '/' + yyyy;
             document.getElementById("showDate").innerHTML = html;
-
             setTimeout(displayDate, 1000);
         }
     </script>
@@ -60,11 +57,23 @@
     <p>Click on the "x" symbol to close the alert message.</p>
     <div class="alert">
         <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>
-        <strong>Success!</strong> Your account balance has been updated.
+        <strong>Success!</strong> Your budget has been updated.
+        <br>Your remaining balance is:
     </div>
-    <div class="alert 1">
+    <div class="alert one">
         <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>
-        <strong>Success!</strong> Your account balance has been updated.
+        <strong>Success!</strong> Your budget has been updated.
+        <br>Your remaining balance is:
+    </div>
+    <div class="alert two">
+        <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>
+        <strong>Success!</strong> Your budget has been updated.
+        <br>Your remaining balance is:
+    </div>
+    <div class="alert three">
+        <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>
+        <strong>Success!</strong> Your budget has been updated.
+        <br>Your remaining balance is:
     </div>
 </section>
 
