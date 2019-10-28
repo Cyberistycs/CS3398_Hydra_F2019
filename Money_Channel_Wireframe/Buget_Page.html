@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Create Budget</title>
+    <link rel="stylesheet" type="text/css" href="createBudget.css" />
+    <script>
+        function displayDate() {
+            var date = new Date();
+            var mm = date.getMonth()+1;
+            var dd = date.getDate();
+            var yyyy = date.getFullYear();
+            if (mm < 10){
+                mm = '0' + mm;
+            }
+            if (dd < 10){
+                dd = '0' + dd;
+            }
+            var html = "";
+            html += "Welcome Back, Jane!<br>";
+            html +=  mm + '/' + dd + '/' + yyyy;
+            document.getElementById("showDate").innerHTML = html;
+            setTimeout(displayDate, 1000);
+        }
+    </script>
+</head>
+
+<body onload="displayDate()">
+<section class="navigation">
+    <img src="Budget%20App%20Logo.jpeg" class="logo">
+    <img src="logo_name.jpg" class="logo_name">
+    <ul>
+        <li>Notifications</li>
+        <li>Progress Report</li>
+    <li>My Account
+        <ul>
+            <li>My Budget</li>
+            <li>My Transactions</li>
+            <li>Logout</li>
+        </ul>
+    </li>
+    </ul>
+
+</section>
+<section class="accountHeader">
+    <img src="128x128.png" class="time">
+    <div id="showDate"></div>
+
+</section>
+
+<div style=" width: 800px; height: 200px; float:left">
+<h1>Create Your Budget</h1>
+<body>
+<div class="bottom">
+    <div class="add">
+      <div class="add__container">
+        <select class="add__type">
+                        <option value="inc" selected>+</option>
+                        <option value="exp">-</option>
+                    </select>
+        <input type="text" class="add__description" placeholder="Title...">
+        <input type="number" class="add__value" placeholder="$">
+        <button class="add__btn"><i class="ion-ios-checkmark-outline"></i></button>
+      </div>
+    </div>
+
+    <div class="container clearfix">
+      <div class="income">
+        <h2 class="income__title">Income</h2>
+
+        <div class="income__list">
+        </div>
+      </div>
+
+
+      <div class="expenses">
+        <h2 class="expenses__title">Expenses</h2>
+
+        <div class="expenses__list">
+        </div>
+      </div>
+    </div>
+  </div>
+  
+
+</body>
+</html>
