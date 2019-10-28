@@ -75,8 +75,8 @@ Project is: The Money Channel is currently undergoing development process with c
   * In addition to the Landing Page, Mack Scott will be introducing the About Us Page, which will include all of the information about the team's mission and what the application is about.
 * Information Page
    * The page's prototype was designed by Muhammed Rasheed, and is now being developed into html and css code. 
-* Services Page
-   * The services page will be developed by Christian Coulter, and will include information about the three different plans and their features.
+* Blog
+   * The blog will be developed by Christian Coulter, and will include articles on budgeting.
 * More to come...
 
 ## Retrospective

@@ -25,7 +25,7 @@
     padding: 0;
     margin: 0;
     height: 200px;
-    background: linear-gradient(to right, #19BDD3, #C4C4C4);
+    background: linear-gradient(to left, #19BDD3, #FF0000);
 }
 
 .accountHeader .time{
@@ -44,6 +44,8 @@ ul{
     margin: 0;
     padding: 0;
     list-style: none;
+    position: relative;
+    top: 20px;
 }
 
 ul li{
@@ -56,6 +58,7 @@ ul li{
     line-height: 50px;
     text-align: center;
     float: right;
+
 }
 
 ul li:hover{
@@ -63,6 +66,10 @@ ul li:hover{
 }
 
 ul ul{
+    position: relative;
+    top: 0;
+    margin: 0;
+    padding: 0;
     display: none;
 }
 

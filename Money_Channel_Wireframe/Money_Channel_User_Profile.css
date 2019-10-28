@@ -1,29 +1,52 @@
-.body {
-    background: #ffffff none repeat scroll 0 0;
-    border: 1px solid #e1e8ed;
-    border-radius: 6px;
-    height: 800px;
-    max-width: 1360px; // orginal twitter width: 1160px;
-    margin: auto;
-    font-family: sans-serif;
+.body{
+    padding: 0;
+    margin-left: 10%;
+    margin-right: 10%;;
+    background-color: #C4C4C4;
 }
 
 .navigation{
     height: 80px;
     background: white;
-    font-family: 'Roboto', Arial;
-    margin-bottom: -81px;
+}
+
+.logo{
+    width: 80px;
+    height: 80px;
+    position: absolute;
+}
+
+.logo_name{
+    left: 80px;
+    top: 50px;
+    position: absolute;
 }
 
 .accountHeader{
-    height: 240px;
-    background: linear-gradient(#19BDD3, #C4C4C4);
+    padding: 0;
+    margin: 0;
+    height: 200px;
+    background: linear-gradient(to left, #19BDD3, #FF0000);
+}
+
+.accountHeader .time{
+    top: 120px;
+    left: 40px;
+    position: absolute;
+}
+
+.accountHeader div{
+    top: 180px;
+    left: 200px;
+    position: absolute;
 }
 
 ul{
     margin: 0;
     padding: 0;
     list-style: none;
+    position: relative;
+    top: 20px;
 }
 
 ul li{
@@ -31,11 +54,12 @@ ul li{
     padding: 0;
     background-color: #C4C4C4;
     width: 150px;
-    height: 60px;
+    height: 50px;
     border: 1px solid #19BDD3;
     line-height: 50px;
     text-align: center;
     float: right;
+
 }
 
 ul li:hover{
@@ -43,21 +67,29 @@ ul li:hover{
 }
 
 ul ul{
+    position: relative;
+    top: 0;
+    margin: 0;
+    padding: 0;
     display: none;
 }
 
 ul li:hover > ul{
     display: block;
 }
-.twPc-bg {
-    background-image: linear-gradient(to left, #19BDD3, #FF0000);
-    background-position: 0 50%;
-    background-size: 100% auto;
-    border-bottom: 1px solid #e1e8ed;
-    border-radius: 4px 4px 0 0;
-    height: 200px;
-    width: 100%;
+
+.content{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    padding: 20px;
+    position: relative;
+    left: 10%;
+    height: 800px;
+    max-width: 1470px;
+    border: solid 5px #19BDD3;
+    border-radius: 3%;
 }
+
 .twPc-block {
     display: block !important;
 }
@@ -67,177 +99,133 @@ ul li:hover > ul{
     border-radius: 6px;
     display: inline-block !important;
     float: left;
-    margin: -115px 5px 0 15px;
+    margin: 8px 125px 15px;
     max-width: 100%;
     padding: 1px;
     vertical-align: bottom;
 }
 .twPc-avatarImg {
     border: 2px solid #fff;
-    border-radius: 7px;
+    border-radius: 100px;
     box-sizing: border-box;
     color: #fff;
     height: 200px;
     width: 200px;
 }
 
-.accounts {
-    margin: 600px;
-}
 
-.twPc-divUser {
-    margin: 10px 0 0;
-}
-
-.twPc-divName {
+h1 {
     font-family: 'Roboto', Arial;
-    font-size: 35px;
-    font-weight: 700;
-    line-height: 35px;
-    height: 40px;
+    font-size: 36px;
+    text-align: center;
+
 }
 
-.twPc-divName h1 {
+h2 {
     font-family: 'Roboto', Arial;
-    font-size: 100%;
-    margin: -6px 0 0;
-    color: inherit !important;
-}
-
-.twPc-divName h2 {
-    font-family: 'Roboto', Arial;
-    font-size: 60%;
-    margin: -6px 0 0;
+    font-size: 24px;
+    text-align: center;
 
 }
-
-.twPc-Arrange {
-    box-sizing: border-box;
-    display: table;
-    margin: 0;
-    min-width: 100%;
-    padding: 0;
-    table-layout: auto;
+.usrInfo h2{
+    margin-top: -40px;
+    margin-bottom: 40px;
 }
-ul.twPc-Arrange {
-    list-style: outside none none;
-    margin: 0;
-    padding: 0;
-}
-.twPc-ArrangeSizeFit {
-    display: table-cell;
-    padding: 0;
-    vertical-align: top;
-}
-.twPc-ArrangeSizeFit a:hover {
-    text-decoration: none;
-}
-
-.myAcct {
-    margin: 60px 30px -50px;
+.myAcct{
+    position: absolute;
+    top: 10%;
+    width: 700px;
+    height: 30px;
 }
 
 .myAcct h1 {
     font-family: 'Roboto', Arial;
+    position: absolute;
+    left: 10%;
 }
 
-.button{
-    border-radius: 12px;
+.button {
+    position: relative;
+    left: 75%;
+    top: 30px;
+    border-radius: 30px;
     font-family: sans-serif;
-    color: black;
-    font-size: 115%;
-    padding: 5px 15px;
-    margin-left: 550px;
+    color: white;
+    font-size: 80%;
+    padding: 7px 40px;
     border: solid 3px;
     text-decoration: none;
+    background: red;
 }
 
 .button:hover{
-    background: darkgray;
-    border: solid black 3px
+    background: #19BDD3;
 }
 
+.budget {
+    position: absolute;
+    top: 15%;
 
-.savings {
     width: 700px;
     height: 100px;
     background: white;
     border: solid #C4C4C4;
-    margin: 30px 30px 0;
+    margin: 50px 30px 0;
     box-sizing: border-box;
     padding: 13px 30px;
     border-radius: 20px;
 }
 
-.savings .saveText {
+.budget .budgetText {
     font-family: 'Roboto', Arial;
 }
 
-.checking {
-    width: 700px;
-    height: 100px;
+.usrInfo {
+    position: relative;
+    left: 10%;
+    top: 30%;
+    width: 500px;
+    height: 700px;
     background: white;
     border: solid #C4C4C4;
-    margin: 25px 30px 0;
+    margin: -200px 780px 0;
     box-sizing: border-box;
     padding: 13px 30px;
     border-radius: 20px;
 }
 
-.checking .checkText {
-    font-family: 'Roboto', Arial;
+p {
+    text-align: justify;
+    line-height: 150%;
 }
-
-.other {
-    width: 700px;
-    height: 100px;
-    background: white;
-    border: solid #C4C4C4;
-    margin: 25px 30px 0;
-    box-sizing: border-box;
-    padding: 13px 30px;
-    border-radius: 20px;
-}
-
-.other .otherText {
-    font-family: 'Roboto', Arial;
-}
-
 .bottom{
-    margin: 0;
-    height: 65px;
-    width: 100%;
+    height: 60px;
     background: #C4C4C4;
     position: relative;
-    top: 25%;
+
 }
 
 .bottom .button_AboutUs{
     position: absolute;
-    top: 20%;
     left: 30%;
 }
 
 .bottom .button_Services{
     position: absolute;
-    top: 20%;
     left: 40%;
 }
 
 .bottom .button_ContactUs{
     position: absolute;
-    top: 20%;
     left: 50%;
 }
 
 .bottom .button_Resources{
     position: absolute;
-    top: 20%;
     left: 60%;
 }
 
 .bottom .button_FAQs{
     position: absolute;
-    top: 20%;
     left: 70%;
 }
