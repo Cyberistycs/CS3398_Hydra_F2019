@@ -125,3 +125,42 @@ ul li:hover > ul {
 .closebtn:hover {
     color: black;
 }
+
+.bottom{
+    margin-top: 200px;
+    height: 65px;
+    width: 100%;
+    background: lightgray;
+    position: absolute;
+    top: 80%;
+}
+
+.bottom .button_AboutUs{
+    position: absolute;
+    top: 20%;
+    left: 30%;
+}
+
+.bottom .button_Blog{
+    position: absolute;
+    top: 20%;
+    left: 40%;
+}
+
+.bottom .button_ContactUs{
+    position: absolute;
+    top: 20%;
+    left: 50%;
+}
+
+.bottom .button_Resources{
+    position: absolute;
+    top: 20%;
+    left: 60%;
+}
+
+.bottom .button_FAQs{
+    position: absolute;
+    top: 20%;
+    left: 70%;
+}
