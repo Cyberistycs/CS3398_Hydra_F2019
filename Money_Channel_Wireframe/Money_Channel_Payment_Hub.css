@@ -1,0 +1,225 @@
+.body{
+    padding: 0;
+    margin: 0;
+    background-color: #C4C4C4;
+    font-family: sans-serif;
+}
+
+.navigation{
+    height: 80px;
+    background: white;
+}
+
+.logo{
+    width: 80px;
+    height: 80px;
+    position: absolute;
+}
+
+.logo_name{
+    left: 80px;
+    top: 50px;
+    position: absolute;
+}
+
+.accountHeader{
+    padding: 0;
+    margin: 0;
+    height: 200px;
+    background: linear-gradient(to left, #19BDD3, #FF0000);
+}
+
+.accountHeader .time{
+    top: 120px;
+    left: 40px;
+    position: absolute;
+}
+
+.accountHeader div{
+    top: 180px;
+    left: 200px;
+    position: absolute;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    position: relative;
+    top: 20px;
+    font-family: sans-serif;
+}
+
+ul li{
+    margin: 0;
+    padding: 0;
+    background-color: #C4C4C4;
+    width: 150px;
+    height: 50px;
+    border: 1px solid #19BDD3;
+    line-height: 50px;
+    text-align: center;
+    float: right;
+
+}
+
+ul li:hover{
+    background-color: #19BDD3;
+}
+
+ul ul{
+    position: relative;
+    top: 0;
+    margin: 0;
+    padding: 0;
+    display: none;
+}
+
+ul li:hover > ul{
+    display: block;
+}
+
+.box1{
+    float: left;
+    background: white;
+    width:30%;
+    height:800px;
+    margin: 35px 35px 0;
+    border: solid #C4C4C4;
+    border-radius: 20px;
+}
+.box2{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 35px;
+    background: white;
+    width:30%;
+    height:800px;
+    border: solid #C4C4C4;
+    border-radius: 20px;
+}
+
+.select-style {
+    margin-left: 15px;
+}
+
+.box3{
+    margin-left: auto;
+    margin-right: 35px;
+    background:white;
+    margin-top: -805px;
+    width:30%;
+    height:800px;
+    border: solid #C4C4C4;
+    border-radius: 20px;
+}
+
+.box1 {
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+.text1 {
+    margin-left: 15px;
+}
+
+.box2 {
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+.text2 {
+    margin-left: 15px;
+}
+
+.box3 {
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+.text3 {
+    margin-left: 15px;
+}
+
+.transType {
+    margin: 0;
+    padding: 0;
+    background-color: #C4C4C4;
+    width: 100px;
+    height: 25px;
+    border: 1px solid #19BDD3;
+    line-height: 50px;
+    text-align: center;
+    float: right;
+}
+
+.detailBox {
+    margin: -10px 0 10px;
+}
+
+.budgetButton{
+    margin: auto;
+    width: 300px;
+    text-align: center;
+    border-radius: 9px;
+    font-family: sans-serif;
+    color: #000000;
+    font-size: 135%;
+    padding: 20px 20px;
+    border: solid #c4c4c4 3px;
+    text-decoration: none;
+}
+
+.budgetButton:hover{
+    background: lightgray;
+    border: solid black 3px;
+}
+
+.button {
+    margin: auto;
+    position: center;
+    left: 75%;
+    top: 30px;
+    border-radius: 30px;
+    font-family: sans-serif;
+    color: white;
+    font-size: 15px;
+    padding: 10px 30px;
+    text-decoration: none;
+    background: blue;
+}
+
+.button:hover{
+    background: #19BDD3;
+}
+
+.bottom{
+    height: 60px;
+    background: #C4C4C4;
+    margin-top: 250px;
+}
+
+.bottom .button_AboutUs{
+    position: absolute;
+    left: 30%;
+}
+
+.bottom .button_Blog{
+    position: absolute;
+    left: 40%;
+}
+
+.bottom .button_ContactUs{
+    position: absolute;
+    left: 50%;
+}
+
+.bottom .button_Resources{
+    position: absolute;
+    left: 60%;
+}
+
+.bottom .button_FAQs{
+    position: absolute;
+    left: 70%;
+}
