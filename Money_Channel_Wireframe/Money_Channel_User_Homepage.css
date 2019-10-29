@@ -60,7 +60,7 @@ ul{
     list-style: none;
 }
 
-ul li{
+ul a{
     margin: 0;
     padding: 0;
     background-color: #C4C4C4;
@@ -69,7 +69,11 @@ ul li{
     border: 1px solid #19BDD3;
     line-height: 50px;
     text-align: center;
+    text-decoration: none;
     float: right;
+}
+ul a:hover{
+    background-color: #19BDD3;
 }
 
 ul li:hover{
