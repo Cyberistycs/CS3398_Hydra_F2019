@@ -1,0 +1,435 @@
+.body {
+    background: #ffffff none repeat scroll 0 0;
+    height: 800px;
+    max-width: 1360px;
+    margin: auto;
+    font-family: sans-serif;
+}
+
+.logo {
+    height: 50px;
+    width: 225px;
+    margin: 30px 15px -20px;
+}
+
+.navigation{
+    height: 80px;
+    background: white;
+    font-family: 'Roboto', Arial;
+    margin: -30px 0 0;
+
+}
+
+.accountHeader{
+    height: 240px;
+}
+
+.accountHeader .time{
+    left: 40px;
+    position: absolute;
+}
+
+.accountHeader div{
+    top: 200px;
+    left: 200px;
+    color: white;
+    position: absolute;
+}
+
+.accountHeader h1{
+    top: 160px;
+    left: 850px;
+    font-size: 20px;
+    font-weight: lighter;
+    color: white;
+    position: absolute;
+}
+
+.accountHeader h2{
+    top: 160px;
+    left: 1175px;
+    font-size: 20px;
+    font-weight: lighter;
+    color: white;
+    position: absolute;
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+ul a{
+    margin: 0;
+    padding: 0;
+    background-color: #C4C4C4;
+    width: 150px;
+    height: 60px;
+    border: 1px solid #19BDD3;
+    line-height: 50px;
+    text-align: center;
+    text-decoration: none;
+    float: right;
+}
+ul a:hover{
+    background-color: #19BDD3;
+}
+
+ul li:hover{
+    background-color: #19BDD3;
+}
+
+ul ul{
+    display: none;
+}
+
+ul li:hover > ul{
+    display: block;
+}
+.twPc-bg {
+    background-image: linear-gradient(to left, #19BDD3, #FF0000);
+    background-position: 0 50%;
+    background-size: 100% auto;
+    border-bottom: 1px solid #e1e8ed;
+    border-radius: 4px 4px 0 0;
+    height: 200px;
+    width: 100%;
+}
+.twPc-block {
+    display: block !important;
+}
+
+.twPc-avatarLink {
+    background-color: #fff;
+    border-radius: 6px;
+    display: inline-block !important;
+    float: left;
+    margin: 8px 125px 15px;
+    max-width: 100%;
+    padding: 1px;
+    vertical-align: bottom;
+}
+.twPc-avatarImg {
+    border: 2px solid #fff;
+    border-radius: 100px;
+    box-sizing: border-box;
+    color: #fff;
+    height: 200px;
+    width: 200px;
+}
+
+.accounts {
+    margin: 600px;
+}
+
+.twPc-divUser {
+    margin: 10px 0 0;
+}
+
+.twPc-divName {
+    font-family: 'Roboto', Arial;
+    font-size: 35px;
+    font-weight: 700;
+    line-height: 40px;
+    height: 40px;
+}
+
+.twPc-divName h1 {
+    font-family: 'Roboto', Arial;
+    font-size: 100%;
+    margin: -6px 118px 0;
+    color: inherit !important;
+}
+
+.twPc-divName h2 {
+    font-family: 'Roboto', Arial;
+    font-size: 60%;
+    margin: -6px 135px 0;
+
+}
+
+.twPc-divName h3 {
+    font-family: 'Roboto', Arial;
+    font-size: 40%;
+    margin: -6px 171px 0;
+}
+
+.twPc-Arrange {
+    box-sizing: border-box;
+    display: table;
+    margin: 0;
+    min-width: 100%;
+    padding: 0;
+    table-layout: auto;
+}
+ul.twPc-Arrange {
+    list-style: outside none none;
+    margin: 0;
+    padding: 0;
+}
+.twPc-ArrangeSizeFit {
+    display: table-cell;
+    padding: 0;
+    vertical-align: top;
+}
+.twPc-ArrangeSizeFit a:hover {
+    text-decoration: none;
+}
+
+.myAcct {
+    margin: 60px 30px -50px;
+}
+
+.myAcct h1 {
+    font-family: 'Roboto', Arial;
+}
+
+.button {
+    border-radius: 30px;
+    font-family: sans-serif;
+    color: white;
+    font-size: 80%;
+    padding: 7px 40px;
+    margin-left: 550px;
+    border: solid 3px;
+    text-decoration: none;
+    background: red;
+}
+
+.button:hover{
+    background: #19BDD3;
+}
+
+.budget {
+    width: 700px;
+    height: 100px;
+    background: white;
+    border: solid #C4C4C4;
+    margin: 30px 30px 0;
+    box-sizing: border-box;
+    padding: 0px 30px;
+    border-radius: 20px;
+}
+
+.budget .budgetText h2{
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+
+.budget p{
+    margin-top: 0px;
+    font-size: 15px;
+}
+
+.budget h3{
+    top: 445px;
+    left: 500px;
+    font-size: 30px;
+    position: absolute;
+
+}
+.navigation{
+    height: 80px;
+    background: white;
+    
+
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+ul li{
+    margin: 0;
+    padding: 0;
+    background-color: #C4C4C4;
+    width: 150px;
+    height: 60px;
+    border: 1px solid #19BDD3;
+    line-height: 50px;
+    text-align: center;
+    float: right;
+}
+
+ul li:hover{
+    background-color: #19BDD3;
+}
+
+ul ul{
+    display: none;
+}
+
+ul li:hover > ul{
+    display: block;
+}
+
+.budget .budgetText {
+    font-family: 'Roboto', Arial;
+}
+
+.usrInfo {
+    width: 500px;
+    height: 700px;
+    background: white;
+    border: solid #C4C4C4;
+    margin: -200px 780px 0;
+    box-sizing: border-box;
+    padding: 13px 30px;
+    border-radius: 20px;
+}
+
+.uName {
+    margin: 300px 0px 30px;
+}
+
+.pieContainer {
+    height: 200px;
+    position: relative;
+    top: 50px;
+    left: 140px;
+}
+
+.pieContainer h1{
+    margin-left: -20px;
+    font-size: 65%;
+}
+    
+.pieBackground {
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    box-shadow: 0px 0px 8px rgba(0,0,0,0.5);
+} 
+    
+    .pie {
+      transition: all 1s;
+      position: absolute;
+      width: 150px;
+      height: 150px;
+      border-radius: 100%;
+      clip: rect(0px, 75px, 150px, 0px);
+    }
+    
+    .hold {
+      position: absolute;
+      width: 150px;
+      height: 150px;
+      border-radius: 100%;
+      clip: rect(0px, 150px, 150px, 75px);
+    }
+    
+    #pieSlice1 .pie {
+      background-color: #1b458b;
+      transform:rotate(45deg);
+    }
+    
+    #pieSlice2 {
+      transform: rotate(45deg);
+    }
+    
+    #pieSlice2 .pie {
+      background-color: #0a0;
+      transform: rotate(45deg);
+    }
+    
+    #pieSlice3 {
+      transform: rotate(90deg);
+    }
+    
+    #pieSlice3 .pie {
+      background-color: #f80;
+      transform: rotate(180deg);
+    }
+    
+    #pieSlice4 {
+      transform: rotate(270deg);
+    }
+    
+    #pieSlice4 .pie {
+      background-color: #08f;
+      transform: rotate(90deg);
+    }
+
+.recentAct{
+    width: 700px;
+    height: 100px;
+    background: white;
+    border: solid #C4C4C4;
+    margin: 30px 30px 0px;
+    box-sizing: border-box;
+    padding: 0px 30px;
+    border-radius: 20px;
+    position: relative;
+    top: -500px;
+}   
+
+.otherOps h1{
+    font-size: 30px;
+    margin-left: 30px;
+    position: relative;
+    top: -400px;
+}
+
+.otherOps h2{
+    color: blue;
+    font-size: 20px;
+    margin-left: 45px;
+    position: relative;
+    top: -400px;
+}
+
+.otherOps h3{
+    color: blue;
+    font-size: 20px;
+    margin-left: 45px;
+    position: relative;
+    top: -400px;
+}
+
+.button_UserSettings{
+    font-family: 'Roboto', Arial;
+    font-size: 40%;
+    margin: -6px 171px 0; 
+}
+.bottom{
+    margin: 0 0 0;
+    height: 60px;
+    max-width: 1360px;
+    background: #C4C4C4;
+    position: relative;
+    top: 25%;
+}
+
+.bottom .button_AboutUs{
+    position: absolute;
+    top: 20%;
+    left: 30%;
+}
+
+.bottom .button_Blog{
+    position: absolute;
+    top: 20%;
+    left: 40%;
+}
+
+.bottom .button_ContactUs{
+    position: absolute;
+    top: 20%;
+    left: 50%;
+}
+
+.bottom .button_Resources{
+    position: absolute;
+    top: 20%;
+    left: 60%;
+}
+
+.bottom .button_FAQs{
+    position: absolute;
+    top: 20%;
+    left: 70%;
+}

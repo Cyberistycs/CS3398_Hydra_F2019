@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>UserHomePage</title>
+    <link href="https://fonts.googleapis.com/css?family=Notable|PT+Sans|PT+Serif&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css " href="Money_Channel_User_Homepage.css">
+
+    <script>
+        function displayDate() {
+
+            var date = new Date();
+
+            var mm = date.getMonth()+1;
+            var dd = date.getDate();
+            var yyyy = date.getFullYear();
+
+            if (mm < 10){
+                mm = '0' + mm;
+            }
+
+            if (dd < 10){
+                dd = '0' + dd;
+            }
+            var html = "";
+
+            html += "Welcome Back, Jane!<br>";
+            html +=  mm + '/' + dd + '/' + yyyy;
+            document.getElementById("showDate").innerHTML = html;
+
+            setTimeout(displayDate, 1000);
+        }
+    </script>
+
+</head>
+<body onload="displayDate()">
+	<img src="logo_name.jpg" class="logo">
+
+    <section class="navigation">
+    
+        <ul>
+            <a href="Money_Channel_Notifications.html">Notifications</a>
+            <li>Progress Report</li>
+            <li>My Account
+                <ul>
+                    <li>My Budget</li>
+                    <li>My Transactions</li>
+                    <a href="Money_Channel_User_Login.html">Logout</a>
+                </ul>
+            </li>
+        </ul>
+
+    </section>
+
+    <a class="twPc-bg twPc-block">
+    <section class="accountHeader">
+    	<br>
+    	<br>
+   		<img src="128x128.png" class="time"> 
+   		<div id="showDate"></div>
+   		<h1>Savings account:</h1>
+   		<h2>Current account:</h2>
+
+  	</section>
+
+    </a>
+    <div class = "myAcct">
+        <h1>My Accounts</h1>
+    </div>
+    <div class = "newTrans">
+        <a class = "button">New Transaction</a>
+    </div>
+    <div class = "budget">
+        <div class = "budgetText">
+            <h2>Jane's Budget</h2>
+        </div>
+    </div>
+    
+
+    <section class = usrInfo>
+        <section class = usrInformation>
+            <a title="Jane L. Doe"  class="twPc-avatarLink">
+                <img src="profilepic.jpg" class="twPc-avatarImg">
+            </a>
+            <div class="twPc-divUser">
+                <div class="twPc-divName">
+                    <h1 >Jane L. Doe</h1>
+                    <h2 >San Marcos - TX</h2>
+                    <a class="button_UserSettings" href="Money_Channel_User_Profile.html"> User Settings</a>
+
+                    <div class="pieContainer">
+      				<h1>Monthly spending</h1>
+      				<div class="pieBackground"></div>
+
+      				<div id="pieSlice1" class="hold"><div class="pie"></div></div>
+      				<div id="pieSlice2" class="hold"><div class="pie"></div></div>
+      				<div id="pieSlice3" class="hold"><div class="pie"></div></div>
+      				<div id="pieSlice4" class="hold"><div class="pie"></div></div>
+      
+    				</div>
+                </div>
+            </div>
+        </section>
+    </section>
+
+    <section class="recentAct">
+    	<section class="recentActivity">
+    		<h1><u>Recent Activity</u></h1>
+    	</section>
+    </section>
+    
+    <section class ="otherOps">
+    	<h1>Other Operations</h1>
+    	<h2> - Account report</h2>
+    	<h3> - Future Projections</h3>
+    </section>
+
+    <section class="bottom">
+        <div class="footer">
+            <a class="button_AboutUs"  href="Money_Channel_User_Login.html"> About Us</a>
+            <a class="button_Blog"  href="Money_Channel_Blog.html"> Blog</a>
+            <a class="button_Resources"  href="Money_Channel_User_Login.html"> Resources</a>
+            <a class="button_ContactUs"  href="Money_Channel_Contact_Us.html"> Contact Us</a>
+            <a class="button_FAQs"  href="Money_Channel_User_Login.html"> FAQs</a>
+        </div>
+    </section>
+</body>
+</html>

@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Create Budget</title>
-    <link rel="stylesheet" type="text/css" href="createBudget.css" />
+    <link rel="stylesheet" type="text/css" href="createBudget_Page.css" />
     <script>
         function displayDate() {
             var date = new Date();
@@ -48,40 +48,40 @@
 
 </section>
 
-<div style=" width: 800px; height: 200px; float:left">
 <h1>Create Your Budget</h1>
-<body>
-<div class="bottom">
-    <div class="add">
-      <div class="add__container">
-        <select class="add__type">
-                        <option value="inc" selected>+</option>
-                        <option value="exp">-</option>
-                    </select>
-        <input type="text" class="add__description" placeholder="Title...">
-        <input type="number" class="add__value" placeholder="$">
-        <button class="add__btn"><i class="ion-ios-checkmark-outline"></i></button>
+
+
+<div class="container-fluid center-meh-boi">
+  <div class="row">
+    <div class="col-sm-6 col-sm-offset-1">
+      <div class="box-of-stuff">
+              <form>
+  <input class="form-control input-lg" type="text" id="income" placeholder="Savings"/>
+  <input class="form-control input-lg" type="text" id="rent" placeholder="Rent"/>
+  <input class="form-control input-lg" type="text" id="food" placeholder="Food"/>
+  <input class="form-control input-lg" type="text" id="utilities" placeholder="Utilities"/>
+  <input class="form-control input-lg" type="text" id="insurance" placeholder="Other Expenses"/>
+      </form>
+      <button class="btn btn-primary btn-lg btn-block">Submit</button>
       </div>
     </div>
-
-    <div class="container clearfix">
-      <div class="income">
-        <h2 class="income__title">Income</h2>
-
-        <div class="income__list">
+    <div class="col-sm-4">
+      <div class="results">
+        <h1 class="title">Results</h1>
+        <span class="emoji">
+        </span>
+        <div class="results-data">
+         
         </div>
-      </div>
-
-
-      <div class="expenses">
-        <h2 class="expenses__title">Expenses</h2>
-
-        <div class="expenses__list">
-        </div>
-      </div>
+</div>
     </div>
   </div>
-  
+</div>
 
+
+
+
+
+  
 </body>
 </html>
