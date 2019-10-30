@@ -21,7 +21,8 @@
 }
 
 .accountHeader{
-    height: 240px;
+    height: 200px;
+    position: absolute;
 }
 
 .accountHeader .time{
