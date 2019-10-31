@@ -71,6 +71,7 @@ ul a{
     text-align: center;
     text-decoration: none;
     float: right;
+    color: black;
 }
 ul a:hover{
     background-color: #19BDD3;
