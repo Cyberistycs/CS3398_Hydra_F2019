@@ -238,3 +238,27 @@ h1{
 {
     color: #FF0000;
 }
+
+.emailSent p{
+    text-align: center;
+}
+
+.emailSent .button{
+    padding: 10px 20px;
+    text-align: center;
+    border: none;
+    outline: none;
+    position: absolute;
+    width: 150px;
+    top: 10%;
+    left: 45%;
+    background: #FF0000;
+    color: #000000;
+    font-size: 18px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+
+.emailSent .button:hover{
+    background-color: #C4C4C4;
+}
