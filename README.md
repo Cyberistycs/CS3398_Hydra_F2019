@@ -45,7 +45,9 @@ List of features ready and TODOs for future development
   * Blake Burns was able to design a login interface in which the user can interact and sign into the web application with an email and a password. This interface is the first thing that the user will see when they arrive to the web page and login to the application. --Please refer to the Completed Issues folder *Issue_8
 * Notifications Page
   * Christian Coulter designed a page that shows the user of important events happening with their budgeting account. These notifications would provide information on withdrawals and deposits, and provide the user with the option to clear them. 
-  --Please refer to the Completed Issues folder *Issue_3
+  --Please refer to the Money_Channel_Wireframe folder *Money_Channel_Notifications.html, *Money_Channel_Notifications.css
+* Blog
+  * Christian Coulter was able to create a blog that contains articles beneficial to budgetting. These articles plan to be updated regularly or eventually have users/creators update them. --Please refer to the Money_Channel_Wireframe folder *Money_Channel_Blog.html, *Money_Channel_Blog.css
 * Calculator placeholder
   * Zach Vasquez created the foundation for the calculator that will be implemented in a later stage of development. The calculator has an initialized variable that represents the users account. This is then used to create future projections of the users account after they finish inputting the new transaction(s).
   --Please refer to the Completed Issues folder *calculator.html
