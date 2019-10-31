@@ -61,6 +61,12 @@ p{
     font-family: sans-serif;
 }
 
+iframe{
+    position: absolute;
+    top: 1120px;
+    left: 50%;
+}
+
 h3{
     margin: 3%;
     font-size: 320%;
@@ -199,36 +205,25 @@ h3{
     top: 80%;
 }
 
-.navigation .button_AboutUs{
-    position: absolute;
-    top: 20%;
-    left: 30%;
-
-}
-
-.navigation .button_Services{
+.navigation .button_Home{
     position: absolute;
     top: 20%;
     left: 40%;
+
 }
 
-.navigation .button_ContactUs{
+.navigation .button_Blog{
     position: absolute;
     top: 20%;
     left: 50%;
 }
 
-.navigation .button_Resources{
+.navigation .button_ContactUs{
     position: absolute;
     top: 20%;
     left: 60%;
 }
 
-.navigation .button_FAQs{
-    position: absolute;
-    top: 20%;
-    left: 70%;
-}
 
 
 @media screen and (max-width: 768px) {
