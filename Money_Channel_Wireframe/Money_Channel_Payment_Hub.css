@@ -50,6 +50,23 @@ ul {
     font-family: sans-serif;
 }
 
+ul a{
+    margin: 0;
+    padding: 0;
+    background-color: #C4C4C4;
+    width: 150px;
+    height: 60px;
+    border: 1px solid #19BDD3;
+    line-height: 50px;
+    text-align: center;
+    text-decoration: none;
+    float: right;
+    color: black;
+}
+ul a:hover{
+    background-color: #19BDD3;
+}
+
 ul li{
     margin: 0;
     padding: 0;
