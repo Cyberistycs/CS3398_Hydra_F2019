@@ -198,34 +198,11 @@ p {
     text-align: justify;
     line-height: 150%;
 }
-.bottom{
-    height: 60px;
-    background: #C4C4C4;
+
+.usrInfo .usrInformation .editInfo a{
+    text-align: center;
     position: relative;
+    left: 200px;
 
 }
 
-.bottom .button_AboutUs{
-    position: absolute;
-    left: 30%;
-}
-
-.bottom .button_Services{
-    position: absolute;
-    left: 40%;
-}
-
-.bottom .button_ContactUs{
-    position: absolute;
-    left: 50%;
-}
-
-.bottom .button_Resources{
-    position: absolute;
-    left: 60%;
-}
-
-.bottom .button_FAQs{
-    position: absolute;
-    left: 70%;
-}
