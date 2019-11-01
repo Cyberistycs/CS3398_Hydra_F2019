@@ -51,7 +51,7 @@ List of features ready and TODOs for future development
 * Calculator placeholder
   * Zach Vasquez created the foundation for the calculator that will be implemented in a later stage of development. The calculator has an initialized variable that represents the users account. This is then used to create future projections of the users account after they finish inputting the new transaction(s).
   --Please refer to the Completed Issues folder *calculator.html
-*User Homepage
+* User Homepage
   * Zach Vasquez was able to implement the html and css files for the user homepage. This page serves as a main hub to all of the services features.
   --Please refer to the Money_Channel_Wireframe folder *Money_Channel_User_Homepage.html, *Money_Channel_User_Homepage.css
 * Payment Hub
