@@ -66,16 +66,16 @@ Project is: The Money Channel is currently undergoing development process with c
   * The page's prototype was designed by Blake Burns, and is now being developed into html and css code.
 * User Profile
   * The page's prototype was designed by Blake Burns, and is now being developed into html and css code.
-* User Homepage
-  * The page's prototype was designed by Zach Vasquez, implementation of this page has begun using html and css code.
+* User Homepage Functionality
+  * The page's prototype was designed by Zach Vasquez, and implemented using html and css code. The user homepage will be updated to include more features and a more asthectially pleasing appearance.
 * Budget Page
    * The page's prototype was designed by Muhammed Rasheed, and is now being developed into html and css code.
 * Notifications Page
   * The page's prototype was designed by Christian Coulter, and is now being developed into html and css code.
 * Payment Hub
   * The page's prototype was designed by Blake Burns and is now being processed into html and css code.
-* Contact Us Page
-  * Zach Vasquez will be creating a contact us page using html and css code.
+* Contact Us Page Functionality
+  * Zach Vasquez created a contact us page using html and css code. The next step in the development of this page would be to link to a server that allows for messages to be sent.
 * About Us Page
   * In addition to the Landing Page, Mack Scott will be introducing the About Us Page, which will include all of the information about the team's mission and what the application is about.
 * Information Page
