@@ -71,7 +71,7 @@ Project is: The Money Channel is currently undergoing development process with c
 * Budget Page
    * The page's prototype was designed by Muhammed Rasheed, and is now being developed into html and css code.
 * Notifications Page
-  * The page's prototype was designed by Christian Coulter, and is now being developed into html and css code.
+  * This page was developed by Christian Coulter using css and html, and is now being implemented with a database.
 * Payment Hub
   * The css and html code was completed by Blake Burns, and now actual transactions from the user are being implemented so they will be shown on the user's transaction page.
 * Contact Us Page Functionality
@@ -81,7 +81,7 @@ Project is: The Money Channel is currently undergoing development process with c
 * Information Page
    * The page's prototype was designed by Muhammed Rasheed, and is now being developed into html and css code. 
 * Blog
-   * The blog will be developed by Christian Coulter, and will include articles on budgeting.
+   * The blog has been developed by Christian Coulter with html and css, and continues to be developed with implementation with the database.
 * More to come...
 
 ## Retrospective
