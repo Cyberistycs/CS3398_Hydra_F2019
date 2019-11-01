@@ -42,7 +42,7 @@ List of features ready and TODOs for future development
   * Mack Scott was able to outline and design the Web Application's Landing Page. This page is used as the introduction page when a user accesses the webpage. This landing page will provide the viewer with the budget application info, and will be the source for user login.
   --Please refer to the Completed Issues folder *Issue_14
 * Login Interface
-  * Blake Burns was able to design a login interface in which the user can interact and sign into the web application with an email and a password. This interface is the first thing that the user will see when they arrive to the web page and login to the application. --Please refer to the Completed Issues folder *Issue_8
+  * Blake Burns was able to design and implement a login interface, in css and html code, in which the user can interact and sign into the web application with an email and a password. This interface is the first thing that the user will see when they arrive to the web page and login to the application. --Please refer to the Money_Channel_Wireframe folder; *Money_Channel_User_Login.css *Money_Channel_User_Login.html
 * Notifications Page
   * Christian Coulter designed a page that shows the user of important events happening with their budgeting account. These notifications would provide information on withdrawals and deposits, and provide the user with the option to clear them. 
   --Please refer to the Money_Channel_Wireframe folder *Money_Channel_Notifications.html, *Money_Channel_Notifications.css
@@ -51,11 +51,8 @@ List of features ready and TODOs for future development
 * Calculator placeholder
   * Zach Vasquez created the foundation for the calculator that will be implemented in a later stage of development. The calculator has an initialized variable that represents the users account. This is then used to create future projections of the users account after they finish inputting the new transaction(s).
   --Please refer to the Completed Issues folder *calculator.html
-* User Homepage
-  * Zach Vasquez implemeneted the design of the user homepage using html and css. It serves as a main hub for navigating the services features.
-  --Please refer to the Money_Channel_Wireframe folder *Money_Channel_User_Homepage.html, *Money_Channel_User_Homepage.css
 * Payment Hub
-  * Blake Burns was able to layout and design a payment hub where the user is able to select their desired account, and make a payment from that account. The user is also able to leave a description of the payment as well as select the type of payment it will be. --Please refer to the Completed Issues folder *Issue_11
+  * Blake Burns was able to implement the layout and design of a payment hub, in css and html code, where the user is able to select their desired account, and make a payment from that account. The user is also able to leave a description of the payment as well as select the type of payment it will be. --Please refer to the *Money_Channel_Wireframe folder; *Money_Channel_Payment_Hub.css, *Money_Channel_Payment_Hub.html 
 * Budgetting Informational Page
   * Muhammed Rasheed designed a page that informs users about budgetting. Users can learn about the basics of budgetting their money and investing.--Please refer to the Completed Issues folder *Issue_13
 ## Status
