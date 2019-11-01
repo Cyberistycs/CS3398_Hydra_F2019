@@ -39,8 +39,11 @@ Show examples of usage:
 ## Features
 List of features ready and TODOs for future development
 * Landing Page
-  * Mack Scott was able to outline and design the Web Application's Landing Page. This page is used as the introduction page when a user accesses the webpage. This landing page will provide the viewer with the budget application info, and will be the source for user login.
-  --Please refer to the Completed Issues folder *Issue_14
+  * Mack Scott completed the html and css code for the Web Application's Landing Page. This page is used as the introduction page when a user accesses the webpage. This landing page will provide the viewer with the budget application info, and will be the source for user login.
+  --Please refer to the Money_Channel_Wireframe folder; *Money_Channel_Landing_Page.html *Money_Channel_Landing_Page.css
+* Contact Us
+  * Mack Scott completed the html and css code for the Web Application's Contact Us Page. This page is designed to allow users to contact the team via email and notify the team of any messages the audience might have.
+  --Please refer to the Money_Channel_Wireframe folder; *Money_Channel_Contact_Us.html *Money_Channel_Contact_Us.css
 * Login Interface
   * Blake Burns was able to design and implement a login interface, in css and html code, in which the user can interact and sign into the web application with an email and a password. This interface is the first thing that the user will see when they arrive to the web page and login to the application. --Please refer to the Money_Channel_Wireframe folder; *Money_Channel_User_Login.css *Money_Channel_User_Login.html
 * Notifications Page
@@ -61,7 +64,7 @@ List of features ready and TODOs for future development
 ## Status
 Project is: The Money Channel is currently undergoing development process with coding and designing the web application's framework. The next steps are to create the html and css code for the main application's features. 
 * Landing Page
-  * The page's prototype was designed by Mack Scott, and now proceeds to develop the html and css code for this step.
+  * The page's html/css was designed by Mack Scott, and now proceeds to develop the javascript code for this step.
 * Login Interface
   * The page's prototype was designed by Blake Burns, and is now being developed into html and css code.
 * User Profile
@@ -76,8 +79,8 @@ Project is: The Money Channel is currently undergoing development process with c
   * The css and html code was completed by Blake Burns, and now actual transactions from the user are being implemented so they will be shown on the user's transaction page.
 * Contact Us Page Functionality
   * Zach Vasquez created a contact us page using html and css code. The next step in the development of this page would be to link to a server that allows for messages to be sent.
-* About Us Page
-  * In addition to the Landing Page, Mack Scott will be introducing the About Us Page, which will include all of the information about the team's mission and what the application is about.
+* Connection to Server
+  * Mack Scott will work on setting the web application on a server for anyone to have access to.
 * Information Page
    * The page's prototype was designed by Muhammed Rasheed, and is now being developed into html and css code. 
 * Blog
