@@ -106,7 +106,7 @@ Project is: The Money Channel is currently undergoing development process with c
      * Mack: I believe that we can improve our project by creating the html and css code for this project, as this is not currently in place. This can be measured by the distribution of tasks to each team member and working diligently on each code one at a time.
      * Blake: I need to find a time where I can sit down and talk with the team to explain what progress I have made. 
      * Christian: Identify the tasks and the days I need to complete them in order to stay on schedule with the sprint timeline. 
-     * Zach: Better document what I have done and update the read me with it, and what I plan on doing.
+     * Zach: I believe that I could focus on updating my team more with the progress of my work. Letting them know where I am at in development would lead to a smoother production process.
      * Muhammed: I need to get better at javascript so that I can connect the front end part of my web page to the back end.
 
 ## Inspiration
