@@ -46,12 +46,30 @@
     position: absolute;
 }
 
-ul{
+ul {
     margin: 0;
     padding: 0;
     list-style: none;
     position: relative;
     top: 20px;
+    font-family: sans-serif;
+}
+
+ul a{
+    margin: 0;
+    padding: 0;
+    background-color: #C4C4C4;
+    width: 150px;
+    height: 60px;
+    border: 1px solid #19BDD3;
+    line-height: 50px;
+    text-align: center;
+    text-decoration: none;
+    float: right;
+    color: black;
+}
+ul a:hover{
+    background-color: #19BDD3;
 }
 
 ul li{
@@ -79,7 +97,7 @@ ul ul{
     display: none;
 }
 
-ul li:hover > ul {
+ul li:hover > ul{
     display: block;
 }
 
@@ -97,7 +115,7 @@ ul li:hover > ul {
 
 .alert.one {background-color: #19BDD3; margin-top: 15px;}
 .alert.two {background-color: #19BDD3; margin-top: 15px;}
-.alert.three {background-color: #19BDD3; margin-top:15px;}
+.alert.three {background-color: #19BDD3; margin-top:15px; margin-bottom: 50px;}
 
 .notifPage h1{
     font-family: sans-serif;
@@ -124,43 +142,4 @@ ul li:hover > ul {
 
 .closebtn:hover {
     color: black;
-}
-
-.bottom{
-    margin-top: 200px;
-    height: 65px;
-    width: 100%;
-    background: lightgray;
-    position: absolute;
-    top: 80%;
-}
-
-.bottom .button_AboutUs{
-    position: absolute;
-    top: 20%;
-    left: 30%;
-}
-
-.bottom .button_Blog{
-    position: absolute;
-    top: 20%;
-    left: 40%;
-}
-
-.bottom .button_ContactUs{
-    position: absolute;
-    top: 20%;
-    left: 50%;
-}
-
-.bottom .button_Resources{
-    position: absolute;
-    top: 20%;
-    left: 60%;
-}
-
-.bottom .button_FAQs{
-    position: absolute;
-    top: 20%;
-    left: 70%;
 }
