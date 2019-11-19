@@ -210,12 +210,6 @@ ul li:hover > ul{
     background: #19BDD3;
 }
 
-.bottom{
-    height: 60px;
-    background: #C4C4C4;
-    margin-top: 250px;
-}
-
 .bottom .button_AboutUs{
     position: absolute;
     left: 30%;
