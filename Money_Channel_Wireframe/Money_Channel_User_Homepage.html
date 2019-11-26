@@ -76,7 +76,6 @@ function drawChart() {
         </div>
     </div>
     
-
     <section class = usrInfo>
         <section class = usrInformation>
             <a title="Jane L. Doe"  class="twPc-avatarLink">
@@ -90,17 +89,31 @@ function drawChart() {
 
                     <div id="piechart"></div>
 
-
-
-
                 </div>
             </div>
         </section>
     </section>
-
+    <script type="text/javascript">
+      function accountHistory(){
+        
+        var passedData = localStorage['objectToPass'];
+        localStorage.removeItem('objectToPass');
+        
+        return passedData;
+      }
+    </script>
     <section class="recentAct">
     	<section class="recentActivity">
     		<h1><u>Recent Activity</u></h1>
+        <p id="history"></p>
+        <script>
+          var passed = accountHistory();
+          if(passed != null){
+            document.getElementById("history").innerHTML = passed;
+          }
+          
+        </script>
+
     	</section>
     </section>
     
