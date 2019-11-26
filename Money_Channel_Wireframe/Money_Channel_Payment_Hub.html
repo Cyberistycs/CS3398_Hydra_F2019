@@ -54,17 +54,15 @@
         </div>
         </div>
     </section>
-
+    
     <section class="box3">
         <div class = "text3">
         <h1 >3. Transaction Cost</h1>
-
             <p>
                 <label for="start">Date:</label>
 
                 <input type="date" id="start" name="trans-date" value="2019-11-25" min="2019-01-01" max="2020-12-31">
             </p>
-
 
             <p>
                 <label>Amount:</label>
@@ -72,14 +70,25 @@
                        id = "myText"
                        value = "$" />
             </p>
-
+            <script type="text/javascript">
+            function newTransAdd(){
+                                
+                var amount = document.getElementById('myText').value;
+                var date = document.getElementById('start').value;
+                
+                localStorage.setItem('objectToPass', (date + " " + amount));
+                
+            }
+                
+            </script>
             <p >Transaction Details:</p>
             <div class = "detailBox">
                 <textarea name = "transDetails" rows = "5" cols = "50">Description</textarea>
             </div>
 
             <div class = "transButton">
-                 <a class = "button">Submit Transaction</a>
+                <script type="text/javascript">newTransAdd();</script>
+                <a class = "button" href="Money_Channel_User_Homepage.html">Submit Transaction</a>
             </div>
         </div>
     </section>
