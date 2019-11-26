@@ -300,7 +300,7 @@ ul li:hover > ul{
 
 .recentAct{
     width: 700px;
-    height: 100px;
+    height: auto;
     background: white;
     border: solid #C4C4C4;
     margin: 30px 30px 0px;
