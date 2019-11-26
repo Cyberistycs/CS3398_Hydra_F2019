@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Contact Us</title>
     <link rel="stylesheet" href="Money_Channel_Contact_Us.css">
+    <?php include 'Contact_Us.php';?>
 </head>
 <body>
 <img src="login_page.jpg" class="background_img">
@@ -27,11 +28,36 @@
     <div class="contact">
         <h1>Contact Us</h1>
         <h2>Please let us know how we can help you.</h2>
-        <form>
-            <input type="text" name="" placeholder="Enter Name">
-            <input type="text" name="" placeholder="Enter Email">
-            <textarea type="text" id="msg" placeholder="Enter Message"></textarea>
-            <a class="button"  href="Money_Channel_Email_Sent.html">Send</a>
+        <form action="//submit.form" id="ContactUs100" method="post" onsubmit="return ValidateForm(this);">
+            <script type="text/javascript">
+                function ValidateForm(frm) {
+                    if (frm.Name.value == "") { alert('Name is required.'); frm.Name.focus(); return false; }
+                    if (frm.FromEmailAddress.value == "") { alert('Email address is required.'); frm.FromEmailAddress.focus(); return false; }
+                    if (frm.FromEmailAddress.value.indexOf("@") < 1 || frm.FromEmailAddress.value.indexOf(".") < 1) { alert('Please enter a valid email address.'); frm.FromEmailAddress.focus(); return false; }
+                    if (frm.Comments.value == "") { alert('Please enter comments or questions.'); frm.Comments.focus(); return false; }
+                    return true; }
+            </script>
+            <table style="width:550px;border:0;" cellpadding="8" cellspacing="0">
+                <tr> <td>
+                    <label for="Name">Name*:</label>
+                </td> <td>
+                    <input name="Name" type="text" maxlength="60" />
+                </td> </tr> <tr> <td>
+                <label for="FromEmailAddress">Email*:</label>
+            </td> <td>
+                <input name="FromEmailAddress" type="text" maxlength="90"  />
+            </td> </tr> <tr> <td>
+                <label for="Comments">Comments*:</label>
+            </td> <td>
+                <textarea name="Comments" rows="10" cols="40" ></textarea>
+            </td> </tr> <tr> <td>
+                * - required fields
+            </td> <td>
+                <div style="float:right"><a href="https://www.100forms.com" id="lnk100" title="form to email"></a></div>
+                <input class="button" name="skip_Submit" type="submit" value="Send Message" />
+                <script src="https://www.100forms.com/js/FORMKEY:92P4BJ686EEJ/SEND:m_s189@txstate.edu" type="text/javascript"></script>
+            </td> </tr>
+            </table>
         </form>
     </div>
 </div>
