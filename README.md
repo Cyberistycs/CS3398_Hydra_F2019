@@ -60,10 +60,10 @@ List of features ready and TODOs for future development
 * Payment Hub
   * Blake Burns was able to implement the layout and design of a payment hub, in css and html code, where the user is able to select their desired account, and make a payment from that account. The user is also able to leave a description of the payment as well as select the type of payment it will be. --Please refer to the *Money_Channel_Wireframe folder; *Money_Channel_Payment_Hub.css, *Money_Channel_Payment_Hub.html 
 * Budgetting Informational Page
-  * Muhammed Rasheed designed a page that informs users about budgetting. Users can learn about the basics of budgetting their money and investing.--Please refer to the *Money_Channel_Wireframe folder, Informational_Page.css, Informational_Page.html
+  * Muhammed Rasheed designed a page that informs users about budgetting. Users can learn about the basics of budgetting their money and investing.--Please refer to the *Money_Channel_Wireframe folder, Money_Channel_Informational_Page.css, Money_Channel_Informational_Page.html
 * Budget creation page
   * Muhammed Rasheed designed a page that allows users to create their monthly budget.
-     --Please refer to the *Money_Channel_Wireframe folder, createBudget_Page.css, createBudget_Page.html
+     --Please refer to the *Money_Channel_Wireframe folder, Money_Channel_createBudget_Page.css, MoneyChannel_createBudget_Page.html, Money_Channel_createBudget_Page.js
   
   
 ## Status
