@@ -234,3 +234,17 @@ ul li:hover > ul{
     position: absolute;
     left: 70%;
 }
+
+label {
+    display: block;
+    font: 1rem 'serif', sans-serif;
+    font-size: 16px;
+}
+
+input, label{
+    margin: .4rem 0;
+}
+
+input{
+    font-size: 14px;
+}
