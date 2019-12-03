@@ -106,7 +106,7 @@ Project is: The Money Channel is currently undergoing development process with c
   * Individual:
      * Mack: I was able to work will with the team, and act as a team lead to facilitate all of our task. Unfortunately I was buried with work trying to understand how to intergrate things and with the current code.
      * Blake: The team really works well together. Everyone gets along great!   
-     * Christian: The team did a good job sharing their tasks so that others could implement them on their own computers.
+     * Christian: I was unable to implement everything as I would have wanted to since time and resources/knowledge for the tasks were underestimated.
      * Zach: Sprint 3 proved to be more challenging for me personally, the extent of the resources that were needed was underestimated greatly.
      * Muhammed: Sharing ideas and agreeing on a similiar goal was a smooth process.
 * What Might Be Impeding Us from Performing Better?
