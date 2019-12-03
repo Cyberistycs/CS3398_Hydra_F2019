@@ -45,6 +45,9 @@ List of features ready and TODOs for future development
   * Mack Scott completed the html and css code for the Web Application's Contact Us Page. This page is designed to allow users to contact the team via email and notify the team of any messages the audience might have.
   * Mack Scott was able to use the form on the contact us page and allow the End-User to send an email to the administrator.
   --Please refer to the Money_Channel_Wireframe folder; *Money_Channel_Contact_Us.html *Money_Channel_Contact_Us.css
+* Database
+  * Mack Scott created the user database for the Money Channel Portal. Unfortunatley this is not yet a workable solution with the application, but is working to make this available.
+  --Please refer to the Money_Channel_Wireframe folder; *Money_Channel_Register.php *Money_Channel_Database.php *Money_Channel_Verify.php 
 * Login Interface
   * Blake Burns was able to design and implement a login interface, in css and html code, in which the user can interact and sign into the web application with an email and a password. This interface is the first thing that the user will see when they arrive to the web page and login to the application. --Please refer to the Money_Channel_Wireframe folder; *Money_Channel_User_Login.css *Money_Channel_User_Login.html
 * Notifications Page
@@ -101,18 +104,19 @@ Project is: The Money Channel is currently undergoing development process with c
      * Teammates were as flexible as possible when it came to meeting times.
      * We were able to develop a working prototype.
   * Individual:
-     * Mack: I was able to work will with the team, and act as a team lead to facilitate all of our task.
+     * Mack: I was able to work will with the team, and act as a team lead to facilitate all of our task. Unfortunately I was buried with work trying to understand how to intergrate things and with the current code.
      * Blake: The team really works well together. Everyone gets along great!   
      * Christian: The team did a good job sharing their tasks so that others could implement them on their own computers.
      * Zach: Sprint 3 proved to be more challenging for me personally, the extent of the resources that were needed was underestimated greatly.
      * Muhammed: Sharing ideas and agreeing on a similiar goal was a smooth process.
 * What Might Be Impeding Us from Performing Better?
-  * Finding the time so that the whole team is able to meet together to stay on top, and see that tasks are being completed in     an efficient manner.
+  * Finding the time so that the whole team is able to meet together to stay on top, and see that tasks are being completed in     an efficient manner. Also being able to research new material and incorporate it into our project.
 * What Can We do to Improve?
   * Team:
-     * Set a scheduled meeting time each week that works with every member of the team.
+     * Set a scheduled meeting time each week that works with every member of the team. 
+     * Dedicate time to research necessary programming languages and fully understand how to incorporate it into the application.
   * Individual:
-     * Mack: I believe that we can improve our project by creating the html and css code for this project, as this is not currently in place. This can be measured by the distribution of tasks to each team member and working diligently on each code one at a time.
+     * Mack: I believe I am able to improve this project by setting it up on a server and linking the database with the application.
      * Blake: I need to find a time where I can sit down and talk with the team to explain what progress I have made. 
      * Christian: Identify the tasks and the days I need to complete them in order to stay on schedule with the sprint timeline. 
      * Zach: I believe that I could focus on updating my team more with the progress of my work. Letting them know where I am at in development and asking for help would have led to a smoother production process.
