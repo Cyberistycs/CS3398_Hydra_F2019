@@ -43,6 +43,7 @@ List of features ready and TODOs for future development
   --Please refer to the Money_Channel_Wireframe folder; *Money_Channel_Landing_Page.html *Money_Channel_Landing_Page.css
 * Contact Us
   * Mack Scott completed the html and css code for the Web Application's Contact Us Page. This page is designed to allow users to contact the team via email and notify the team of any messages the audience might have.
+  * Mack Scott was able to use the form on the contact us page and allow the End-User to send an email to the administrator.
   --Please refer to the Money_Channel_Wireframe folder; *Money_Channel_Contact_Us.html *Money_Channel_Contact_Us.css
 * Login Interface
   * Blake Burns was able to design and implement a login interface, in css and html code, in which the user can interact and sign into the web application with an email and a password. This interface is the first thing that the user will see when they arrive to the web page and login to the application. --Please refer to the Money_Channel_Wireframe folder; *Money_Channel_User_Login.css *Money_Channel_User_Login.html
