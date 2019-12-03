@@ -118,7 +118,7 @@ Project is: The Money Channel is currently undergoing development process with c
   * Individual:
      * Mack: I believe I am able to improve this project by setting it up on a server and linking the database with the application.
      * Blake: I need to find a time where I can sit down and talk with the team to explain what progress I have made. 
-     * Christian: Identify the tasks and the days I need to complete them in order to stay on schedule with the sprint timeline. 
+     * Christian: I need to spend more time focusing on tasks that require more time and research. 
      * Zach: I believe that I could focus on updating my team more with the progress of my work. Letting them know where I am at in development and asking for help would have led to a smoother production process.
      * Muhammed: I need to get better at javascript so that I can connect the front end part of my web page to the back end.
 
