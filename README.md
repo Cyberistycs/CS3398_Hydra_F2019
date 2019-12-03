@@ -94,6 +94,8 @@ Project is: The Money Channel is currently undergoing development process with c
    * The page's prototype was designed by Muhammed Rasheed, and is now being developed into html and css code. 
 * Blog
    * The blog has been developed by Christian Coulter with html and css, and continues to be developed with implementation with the database.
+* Transactions Page
+   * The transactions page has been developed by Blake Burns with html and css and is continuing to be developed with java script so that it will be completely functional.
 * More to come...
 
 ## Retrospective
