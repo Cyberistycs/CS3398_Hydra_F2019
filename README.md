@@ -119,7 +119,7 @@ Project is: The Money Channel is currently undergoing development process with c
      * Dedicate time to research necessary programming languages and fully understand how to incorporate it into the application.
   * Individual:
      * Mack: I believe I am able to improve this project by setting it up on a server and linking the database with the application.
-     * Blake: I need to find a time where I can sit down and talk with the team to explain what progress I have made. 
+     * Blake: I need to be able to learn javascript so that I am able to make parts of the project completely functional. 
      * Christian: I need to spend more time focusing on tasks that require more time and research. 
      * Zach: I believe that I could focus on updating my team more with the progress of my work. Letting them know where I am at in development and asking for help would have led to a smoother production process.
      * Muhammed: I need to get better at javascript so that I can connect the front end part of my web page to the back end.
