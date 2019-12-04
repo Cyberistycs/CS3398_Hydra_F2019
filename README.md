@@ -68,6 +68,9 @@ List of features ready and TODOs for future development
 * Budget creation page
   * Muhammed Rasheed designed a page that allows users to create their monthly budget.
      --Please refer to the *Money_Channel_Wireframe folder, Money_Channel_createBudget_Page.css, MoneyChannel_createBudget_Page.html, Money_Channel_createBudget_Page.js
+* Transaction Page
+  * Blake Burns designed and implemented the css and html code for a page that holds the user's transactions.
+     --Please refer to the *Money_Channel_Wireframe folder, Money_Channel_Transaction_Page.html, Money_Channel_Transaction_page.css
   
   
 ## Status
